@@ -1,0 +1,63 @@
+╔════════════════════════════════════════════════════════════════╗
+║                 CLUEDO WEB - PORTAGE COMPLET                   ║
+╚════════════════════════════════════════════════════════════════╝
+
+📊 STATISTIQUES
+  • 19 fichiers JavaScript (~2700 lignes)
+  • 0 dépendance externe
+  • 100% fonctionnel
+
+✅ PHASES COMPLETÉES
+  [✓] Phase 1: Couche de rendu (Console, ConsoleLine, ConsoleStyle)
+  [✓] Phase 2: Modèles (Card, Deck, Proposition, Action)
+  [✓] Phase 3: Logique IA (KnowledgeGrid + déduction)
+  [✓] Phase 4: Moteur (Player, GameEngine)
+  [✓] Phase 5: Interface (MainMenu, InteractiveInterface)
+  [✓] Phase 6: Intégration complète
+
+🎮 FONCTIONNALITÉS
+  • 2 modes de jeu (REEL, ENIGME)
+  • IA avancée avec déduction logique
+  • Interface 3 zones avec navigation clavier
+  • Undo/Redo illimité
+  • Recherche Vi-style (/, n, nG, G)
+  • Reproductibilité cross-platform (même seed Java ↔ JS)
+  • Highlights automatiques des noms de cartes
+  • Historique limité à 27 lignes (optimisé pour lisibilité)
+
+🚀 DÉMARRAGE RAPIDE
+
+  Ouvrir index.html dans un navigateur
+
+  Ou avec serveur local:
+    python3 -m http.server 8000
+    puis ouvrir http://localhost:8000
+
+📝 FICHIERS IMPORTANTS
+  • README.md       : Documentation complète
+  • index.html      : Point d'entrée du jeu
+  • .gitignore      : Fichiers à ignorer
+
+🎯 COMPATIBILITÉ
+  Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+  Nécessite: ES6 modules, BigInt
+
+🔗 REPRODUCTIBILITÉ
+  Même seed → même partie (Java ↔ JS)
+  Exemples:
+    index.html?seed=42
+    index.html?seed=123&verbose=true
+    index.html?seed=456&no-highlight=true
+
+🎨 AMÉLIORATIONS VISUELLES
+  • Police 24px (lisibilité optimale)
+  • Line-height 1.0 (surbrillance continue)
+  • Couleurs éclaircies pour la grille
+  • Highlights des cartes activables
+
+═══════════════════════════════════════════════════════════════════
+
+Portage réalisé avec fidélité 1:1 au code Java original.
+Toutes les fonctionnalités sont préservées !
+
+═══════════════════════════════════════════════════════════════════

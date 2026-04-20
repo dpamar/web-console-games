@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    line-height: 1.0;
+    overflow: hidden;
+}
+
+#output-container {
+    padding: 0;
+    white-space: pre;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+}
+
+.console-line {
+    margin: 0;
+    padding: 0;
+    white-space: pre;
+}
+
+/* Couleurs de base - codes ANSI mappés en CSS */
+.color-blue { color: #5555ff; }
+.color-cyan { color: #00ffff; }
+.color-green { color: #00ff00; }
+.color-red { color: #ff5555; }
+.color-yellow { color: #ffff55; }
+.color-white { color: #ffffff; }
+.bg-white { background-color: #ffffff; }
+.color-black { color: #000000; }
+
+/* Styles combinés */
+.color-green.bg-white {
+    color: #00ff00;
+    background-color: #ffffff;
+}
+
+.color-black.bg-white {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+/* Style pour le curseur dans les zones sélectionnées */
+.cursor-active {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Cluedo-specific styles */
+.grid-selector {
+    background-color: #9988ff;
+    color: #000000;
+}
+
+.card-default { color: #00ff00; }
+.card-assigned { background-color: #7788dd; color: #ffffff; }
+.card-solution { background-color: #dd77dd; color: #ffffff; }
+
+/* Responsive - ajuster la taille de police si nécessaire */
+@media (max-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+}

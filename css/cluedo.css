@@ -1,0 +1,14 @@
+/*
+ * Cluedo-specific styles
+ * Base console styles are in console.css
+ */
+
+/* Styles spécifiques au jeu Cluedo */
+.grid-selector {
+    background-color: #9988ff;
+    color: #000000;
+}
+
+.card-default { color: #00ff00; }
+.card-assigned { background-color: #7788dd; color: #ffffff; }
+.card-solution { background-color: #dd77dd; color: #ffffff; }

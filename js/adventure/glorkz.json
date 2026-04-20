@@ -1,0 +1,5832 @@
+{
+  "long_descriptions": {
+    "1": "You are standing at the end of a road before a small brick building.\nAround you is a forest.  A small stream flows out of the building and\ndown a gully.",
+    "2": "You have walked up a hill, still in the forest.  The road slopes back\ndown the other side of the hill.  There is a building in the distance.",
+    "3": "You are inside a building, a well house for a large spring.",
+    "4": "You are in a valley in the forest beside a stream tumbling along a\nrocky bed.",
+    "5": "You are in open forest, with a deep valley to one side.",
+    "6": "You are in open forest near both a valley and a road.",
+    "7": "At your feet all the water of the stream splashes into a 2-inch slit\nin the rock.  Downstream the streambed is bare rock.",
+    "8": "You are in a 20-foot depression floored with bare dirt.  Set into the\ndirt is a strong steel grate mounted in concrete.  A dry streambed\nleads into the depression.",
+    "9": "You are in a small chamber beneath a 3x3 steel grate to the surface.\nA low crawl over cobbles leads inward to the west.",
+    "10": "You are crawling over cobbles in a low passage.  There is a dim light\nat the east end of the passage.",
+    "11": "You are in a debris room filled with stuff washed in from the surface.\nA low wide passage with cobbles becomes plugged with mud and debris\nhere, but an awkward canyon leads upward and west.  A note on the wall\nsays \"Magic word XYZZY\".",
+    "12": "You are in an awkward sloping east/west canyon.",
+    "13": "You are in a splendid chamber thirty feet high.  The walls are frozen\nrivers of orange stone.  An awkward canyon and a good passage exit\nfrom east and west sides of the chamber.",
+    "14": "At your feet is a small pit breathing traces of white mist.  An east\npassage ends here except for a small crack leading on.",
+    "15": "You are at one end of a vast hall stretching forward out of sight to\nthe west.  There are openings to either side.  Nearby, a wide stone\nstaircase leads downward.  The hall is filled with wisps of white mist\nswaying to and fro almost as if alive.  A cold wind blows up the\nstaircase.  There is a passage at the top of a dome behind you.",
+    "16": "The crack is far too small for you to follow.",
+    "17": "You are on the east bank of a fissure slicing clear across the hall.\nThe mist is quite thick here, and the fissure is too wide to jump.",
+    "18": "This is a low room with a crude note on the wall.  The note says,\n\"You won't get it up the steps\".",
+    "19": "You are in the Hall of the Mountain King, with passages off in all\ndirections.",
+    "20": "You are at the bottom of the pit with a broken neck.",
+    "21": "You didn't make it.",
+    "22": "The dome is unclimbable.",
+    "23": "You are at the west end of the Twopit Room.  There is a large hole in\nthe wall above the pit at this end of the room.",
+    "24": "You are at the bottom of the eastern pit in the Twopit Room.  There is\na small pool of oil in one corner of the pit.",
+    "25": "You are at the bottom of the western pit in the Twopit Room.  There is\na large hole in the wall about 25 feet above you.",
+    "26": "You clamber up the plant and scurry through the hole at the top.",
+    "27": "You are on the west side of the fissure in the Hall of Mists.",
+    "28": "You are in a low N/S passage at a hole in the floor.  The hole goes\ndown to an E/W passage.",
+    "29": "You are in the south side chamber.",
+    "30": "You are in the west side chamber of the Hall of the Mountain King.\nA passage continues west and up here.",
+    "31": ">$<",
+    "32": "You can't get by the snake.",
+    "33": "You are in a large room, with a passage to the south, a passage to the\nwest, and a wall of broken rock to the east.  There is a large \"Y2\" on\na rock in the room's center.",
+    "34": "You are in a jumble of rock, with cracks everywhere.",
+    "35": "You're at a low window overlooking a huge pit, which extends up out of\nsight.  A floor is indistinctly visible over 50 feet below.  Traces of\nwhite mist cover the floor of the pit, becoming thicker to the right.\nMarks in the dust around the window would seem to indicate that\nsomeone has been here recently.  Directly across the pit from you and\n25 feet away there is a similar window looking into a lighted room.  A\nshadowy figure can be seen there peering back at you.",
+    "36": "You are in a dirty broken passage.  To the east is a crawl.  To the\nwest is a large passage.  Above you is a hole to another passage.",
+    "37": "You are on the brink of a small clean climbable pit.  A crawl leads\nwest.",
+    "38": "You are in the bottom of a small pit with a little stream, which\nenters and exits through tiny slits.",
+    "39": "You are in a large room full of dusty rocks.  There is a big hole in\nthe floor.  There are cracks everywhere, and a passage leading east.",
+    "40": "You have crawled through a very low wide passage parallel to and north\nof the Hall of Mists.",
+    "41": "You are at the west end of Hall of Mists.  A low wide crawl continues\nwest and another goes north.  To the south is a little passage 6 feet\noff the floor.",
+    "42": "You are in a maze of twisty little passages, all alike.",
+    "43": "You are in a maze of twisty little passages, all alike.",
+    "44": "You are in a maze of twisty little passages, all alike.",
+    "45": "You are in a maze of twisty little passages, all alike.",
+    "46": "Dead end",
+    "47": "Dead end",
+    "48": "Dead end",
+    "49": "You are in a maze of twisty little passages, all alike.",
+    "50": "You are in a maze of twisty little passages, all alike.",
+    "51": "You are in a maze of twisty little passages, all alike.",
+    "52": "You are in a maze of twisty little passages, all alike.",
+    "53": "You are in a maze of twisty little passages, all alike.",
+    "54": "Dead end",
+    "55": "You are in a maze of twisty little passages, all alike.",
+    "56": "Dead end",
+    "57": "You are on the brink of a thirty foot pit with a massive orange column\ndown one wall.  You could climb down here but you could not get back\nup.  The maze continues at this level.",
+    "58": "Dead end",
+    "59": "You have crawled through a very low wide passage parallel to and north\nof the Hall of Mists.",
+    "60": "You are at the east end of a very long hall apparently without side\nchambers.  To the east a low wide crawl slants up.  To the north a\nround two foot hole slants down.",
+    "61": "You are at the west end of a very long featureless hall.  The hall\njoins up with a narrow north/south passage.",
+    "62": "You are at a crossover of a high N/S passage and a low E/W one.",
+    "63": "Dead end",
+    "64": "You are at a complex junction.  A low hands and knees passage from the\nnorth joins a higher crawl from the east to make a walking passage\ngoing west.  There is also a large room above.  The air is damp here.",
+    "65": "You are in Bedquilt, a long east/west passage with holes everywhere.\nTo explore at random select north, south, up, or down.",
+    "66": "You are in a room whose walls resemble Swiss cheese.  Obvious passages\ngo west, east, NE, and NW.  Part of the room is occupied by a large\nbedrock block.",
+    "67": "You are at the east end of the Twopit Room.  The floor here is\nlittered with thin rock slabs, which make it easy to descend the pits.\nThere is a path here bypassing the pits to connect passages from east\nand west.  There are holes all over, but the only big one is on the\nwall directly over the west pit where you can't get to it.",
+    "68": "You are in a large low circular chamber whose floor is an immense slab\nfallen from the ceiling (Slab Room).  East and west there once were\nlarge passages, but they are now filled with boulders.  Low small\npassages go north and south, and the south one quickly bends west\naround the boulders.",
+    "69": "You are in a secret N/S canyon above a large room.",
+    "70": "You are in a secret N/S canyon above a sizable passage.",
+    "71": "You are in a secret canyon at a junction of three canyons, bearing\nnorth, south, and SE.  The north one is as tall as the other two\ncombined.",
+    "72": "You are in a large low room.  Crawls lead north, SE, and SW.",
+    "73": "Dead end crawl.",
+    "74": "You are in a secret canyon which here runs E/W.  It crosses over a\nvery tight canyon 15 feet below.  If you go down you may not be able\nto get back up.",
+    "75": "You are at a wide place in a very tight N/S canyon.",
+    "76": "The canyon here becomes too tight to go further south.",
+    "77": "You are in a tall E/W canyon.  A low tight crawl goes 3 feet north and\nseems to open up.",
+    "78": "The canyon runs into a mass of boulders -- dead end.",
+    "79": "The stream flows out through a pair of 1 foot diameter sewer pipes.\nIt would be advisable to use the exit.",
+    "80": "You are in a maze of twisty little passages, all alike.",
+    "81": "Dead end",
+    "82": "Dead end",
+    "83": "You are in a maze of twisty little passages, all alike.",
+    "84": "You are in a maze of twisty little passages, all alike.",
+    "85": "Dead end",
+    "86": "Dead end",
+    "87": "You are in a maze of twisty little passages, all alike.",
+    "88": "You are in a long, narrow corridor stretching out of sight to the\nwest.  At the eastern end is a hole through which you can see a\nprofusion of leaves.",
+    "89": "There is nothing here to climb.  Use \"up\" or \"out\" to leave the pit.",
+    "90": "You have climbed up the plant and out of the pit.",
+    "91": "You are at the top of a steep incline above a large room.  You could\nclimb down here, but you would not be able to climb up.  There is a\npassage leading back to the north.",
+    "92": "You are in the Giant Room.  The ceiling here is too high up for your\nlamp to show it.  Cavernous passages lead east, north, and south.  On\nthe west wall is scrawled the inscription, \"Fee fie foe foo\" [sic].",
+    "93": "The passage here is blocked by a recent cave-in.",
+    "94": "You are at one end of an immense north/south passage.",
+    "95": "You are in a magnificent cavern with a rushing stream, which cascades\nover a sparkling waterfall into a roaring whirlpool which disappears\nthrough a hole in the floor.  Passages exit to the south and west.",
+    "96": "You are in the Soft Room.  The walls are covered with heavy curtains,\nthe floor with a thick pile carpet.  Moss covers the ceiling.",
+    "97": "This is the Oriental Room.  Ancient oriental cave drawings cover the\nwalls.  A gently sloping passage leads upward to the north, another\npassage leads SE, and a hands and knees crawl leads west.",
+    "98": "You are following a wide path around the outer edge of a large cavern.\nFar below, through a heavy white mist, strange splashing noises can be\nheard.  The mist rises up through a fissure in the ceiling.  The path\nexits to the south and west.",
+    "99": "You are in an alcove.  A small NW path seems to widen after a short\ndistance.  An extremely tight tunnel leads east.  It looks like a very\ntight squeeze.  An eerie light can be seen at the other end.",
+    "100": "You're in a small chamber lit by an eerie green light.  An extremely\nnarrow tunnel exits to the west.  A dark corridor leads NE.",
+    "101": "You're in the Dark-Room.  A corridor leading south is the only exit.",
+    "102": "You are in an arched hall.  A coral passage once continued up and east\nfrom here, but is now blocked by debris.  The air smells of sea water.",
+    "103": "You're in a large room carved out of sedimentary rock.  The floor and\nwalls are littered with bits of shells embedded in the stone.  A\nshallow passage proceeds downward, and a somewhat steeper one leads\nup.  A low hands and knees passage enters from the south.",
+    "104": "You are in a long sloping corridor with ragged sharp walls.",
+    "105": "You are in a cul-de-sac about eight feet across.",
+    "106": "You are in an anteroom leading to a large passage to the east.  Small\npassages go west and up.  The remnants of recent digging are evident.\nA sign in midair here says \"Cave under construction beyond this point.\nProceed at own risk.  [Witt construction company]\"",
+    "107": "You are in a maze of twisty little passages, all different.",
+    "108": "You are at Witt's End.  Passages lead off in *all* directions.",
+    "109": "You are in a north/south canyon about 25 feet across.  The floor is\ncovered by white mist seeping in from the north.  The walls extend\nupward for well over 100 feet.  Suspended from some unseen point far\nabove you, an enormous two-sided mirror is hanging parallel to and\nmidway between the canyon walls.  (The mirror is obviously provided\nfor the use of the dwarves, who as you know, are extremely vain.)  A\nsmall window can be seen in either wall, some fifty feet up.",
+    "110": "You're at a low window overlooking a huge pit, which extends up out of\nsight.  A floor is indistinctly visible over 50 feet below.  Traces of\nwhite mist cover the floor of the pit, becoming thicker to the left.\nMarks in the dust around the window would seem to indicate that\nsomeone has been here recently.  Directly across the pit from you and\n25 feet away there is a similar window looking into a lighted room.  A\nshadowy figure can be seen there peering back at you.",
+    "111": "A large stalactite extends from the roof and almost reaches the floor\nbelow.  You could climb down it, and jump from it to the floor, but\nhaving done so you would be unable to reach it to climb back up.",
+    "112": "You are in a little maze of twisting passages, all different.",
+    "113": "You are at the edge of a large underground reservoir.  An opaque cloud\nof white mist fills the room and rises rapidly upward.  The lake is\nfed by a stream, which tumbles out of a hole in the wall about 10 feet\noverhead and splashes noisily into the water somewhere within the\nmist.  The only passage goes back toward the south.",
+    "114": "Dead end",
+    "115": "You are at the northeast end of an immense room, even larger than the\nGiant Room.  It appears to be a repository for the \"Adventure\"\nprogram.  Massive torches far overhead bathe the room with smoky\nyellow light.  Scattered about you can be seen a pile of bottles (all\nof them empty), a nursery of young beanstalks murmuring quietly, a bed\nof oysters, a bundle of black rods with rusty stars on their ends, and\na collection of brass lanterns.  Off to one side a great many dwarves\nare sleeping on the floor, snoring loudly.  A sign nearby reads: \"Do\nnot disturb the dwarves!\"  An immense mirror is hanging against one\nwall, and stretches to the other end of the room, where various other\nsundry objects can be glimpsed dimly in the distance.",
+    "116": "You are at the southwest end of the Repository.  To one side is a pit\nfull of fierce green snakes.  On the other side is a row of small\nwicker cages, each of which contains a little sulking bird.  In one\ncorner is a bundle of black rods with rusty marks on their ends.  A\nlarge number of velvet pillows are scattered about on the floor.  A\nvast mirror stretches off to the northeast.  At your feet is a large\nsteel grate, next to which is a sign which reads, \"Treasure Vault.\nKeys in Main Office.\"",
+    "117": "You are on one side of a large, deep chasm.  A heavy white mist rising\nup from below obscures all view of the far side.  A SW path leads away\nfrom the chasm into a winding corridor.",
+    "118": "You are in a long winding corridor sloping out of sight in both\ndirections.",
+    "119": "You are in a secret canyon which exits to the north and east.",
+    "120": "You are in a secret canyon which exits to the north and east.",
+    "121": "You are in a secret canyon which exits to the north and east.",
+    "122": "You are on the far side of the chasm.  A NE path leads away from the\nchasm on this side.",
+    "123": "You're in a long east/west corridor.  A faint rumbling noise can be\nheard in the distance.",
+    "124": "The path forks here.  The left fork leads northeast.  A dull rumbling\nseems to get louder in that direction.  The right fork leads southeast\ndown a gentle slope.  The main corridor enters from the west.",
+    "125": "The walls are quite warm here.  From the north can be heard a steady\nroar, so loud that the entire cave seems to be trembling.  Another\npassage leads south, and a low crawl goes east.",
+    "126": "You are on the edge of a breath-taking view.  Far below you is an\nactive volcano, from which great gouts of molten lava come surging\nout, cascading back down into the depths.  The glowing rock fills the\nfarthest reaches of the cavern with a blood-red glare, giving every-\nthing an eerie, macabre appearance.  The air is filled with flickering\nsparks of ash and a heavy smell of brimstone.  The walls are hot to\nthe touch, and the thundering of the volcano drowns out all other\nsounds.  Embedded in the jagged roof far overhead are myriad twisted\nformations composed of pure white alabaster, which scatter the murky\nlight into sinister apparitions upon the walls.  To one side is a deep\ngorge, filled with a bizarre chaos of tortured rock which seems to\nhave been crafted by the devil himself.  An immense river of fire\ncrashes out from the depths of the volcano, burns its way through the\ngorge, and plummets into a bottomless pit far off to your left.  To\nthe right, an immense geyser of blistering steam erupts continuously\nfrom a barren island in the center of a sulfurous lake, which bubbles\nominously.  The far right wall is aflame with an incandescence of its\nown, which lends an additional infernal splendor to the already\nhellish scene.  A dark, foreboding passage exits to the south.",
+    "127": "You are in a small chamber filled with large boulders.  The walls are\nvery warm, causing the air in the room to be almost stifling from the\nheat.  The only exit is a crawl heading west, through which is coming\na low rumbling.",
+    "128": "You are walking along a gently sloping north/south passage lined with\noddly shaped limestone formations.",
+    "129": "You are standing at the entrance to a large, barren room.  A sign\nposted above the entrance reads:  \"Caution!  Bear in room!\"",
+    "130": "You are inside a barren room.  The center of the room is completely\nempty except for some dust.  Marks in the dust lead away toward the\nfar end of the room.  The only exit is the way you came in.",
+    "131": "You are in a maze of twisting little passages, all different.",
+    "132": "You are in a little maze of twisty passages, all different.",
+    "133": "You are in a twisting maze of little passages, all different.",
+    "134": "You are in a twisting little maze of passages, all different.",
+    "135": "You are in a twisty little maze of passages, all different.",
+    "136": "You are in a twisty maze of little passages, all different.",
+    "137": "You are in a little twisty maze of passages, all different.",
+    "138": "You are in a maze of little twisting passages, all different.",
+    "139": "You are in a maze of little twisty passages, all different.",
+    "140": "Dead end"
+  },
+  "short_descriptions": {
+    "1": "You're at end of road again.",
+    "2": "You're at hill in road.",
+    "3": "You're inside building.",
+    "4": "You're in valley.",
+    "5": "You're in forest.",
+    "6": "You're in forest.",
+    "7": "You're at slit in streambed.",
+    "8": "You're outside grate.",
+    "9": "You're below the grate.",
+    "10": "You're in Cobble Crawl.",
+    "11": "You're in Debris Room.",
+    "13": "You're in Bird Chamber.",
+    "14": "You're at top of small pit.",
+    "15": "You're in Hall of Mists.",
+    "17": "You're on east bank of fissure.",
+    "18": "You're in Nugget of Gold Room.",
+    "19": "You're in Hall of Mt King.",
+    "23": "You're at west end of Twopit Room.",
+    "24": "You're in east pit.",
+    "25": "You're in west pit.",
+    "33": "You're at \"Y2\".",
+    "35": "You're at window on pit.",
+    "36": "You're in dirty passage.",
+    "39": "You're in Dusty Rock room.",
+    "41": "You're at west end of Hall of Mists.",
+    "57": "You're at brink of pit.",
+    "60": "You're at east end of Long Hall.",
+    "61": "You're at west end of Long Hall.",
+    "64": "You're at Complex Junction.",
+    "66": "You're in Swiss Cheese room.",
+    "67": "You're at east end of Twopit Room.",
+    "68": "You're in Slab Room.",
+    "71": "You're at junction of three secret canyons.",
+    "74": "You're in secret E/W canyon above tight canyon.",
+    "88": "You're in narrow corridor.",
+    "91": "You're at steep incline above large room.",
+    "92": "You're in Giant Room.",
+    "95": "You're in cavern with waterfall.",
+    "96": "You're in Soft Room.",
+    "97": "You're in Oriental Room.",
+    "98": "You're in Misty Cavern.",
+    "99": "You're in Alcove.",
+    "100": "You're in Plover Room.",
+    "101": "You're in Dark-Room.",
+    "102": "You're in Arched Hall.",
+    "103": "You're in Shell Room.",
+    "106": "You're in Anteroom.",
+    "108": "You're at Witt's End.",
+    "109": "You're in Mirror Canyon.",
+    "110": "You're at window on pit.",
+    "111": "You're at top of stalactite.",
+    "113": "You're at Reservoir.",
+    "115": "You're at NE end.",
+    "116": "You're at SW end.",
+    "117": "You're on SW side of chasm.",
+    "118": "You're in sloping corridor.",
+    "122": "You're on NE side of chasm.",
+    "123": "You're in corridor.",
+    "124": "You're at fork in path.",
+    "125": "You're at junction with warm walls.",
+    "126": "You're at Breath-taking View.",
+    "127": "You're in Chamber of Boulders.",
+    "128": "You're in limestone passage.",
+    "129": "You're in front of barren room.",
+    "130": "You're in Barren Room."
+  },
+  "travel": {
+    "1": [
+      {
+        "verb": 2,
+        "dest": 2,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 2,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 2,
+        "conditions": 0
+      },
+      {
+        "verb": 3,
+        "dest": 3,
+        "conditions": 0
+      },
+      {
+        "verb": 12,
+        "dest": 3,
+        "conditions": 0
+      },
+      {
+        "verb": 19,
+        "dest": 3,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 3,
+        "conditions": 0
+      },
+      {
+        "verb": 5,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 13,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 14,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 63,
+        "dest": 8,
+        "conditions": 0
+      }
+    ],
+    "2": [
+      {
+        "verb": 2,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 12,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 7,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 5,
+        "conditions": 0
+      }
+    ],
+    "3": [
+      {
+        "verb": 3,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 32,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 62,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 65,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 5,
+        "dest": 79,
+        "conditions": 0
+      },
+      {
+        "verb": 14,
+        "dest": 79,
+        "conditions": 0
+      }
+    ],
+    "4": [
+      {
+        "verb": 4,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 12,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 5,
+        "dest": 7,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 7,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 7,
+        "conditions": 0
+      },
+      {
+        "verb": 63,
+        "dest": 8,
+        "conditions": 0
+      }
+    ],
+    "5": [
+      {
+        "verb": 9,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 50
+      },
+      {
+        "verb": 7,
+        "dest": 5,
+        "conditions": 50
+      },
+      {
+        "verb": 45,
+        "dest": 5,
+        "conditions": 50
+      },
+      {
+        "verb": 6,
+        "dest": 6,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 5,
+        "conditions": 0
+      }
+    ],
+    "6": [
+      {
+        "verb": 2,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 9,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 5,
+        "conditions": 0
+      }
+    ],
+    "7": [
+      {
+        "verb": 12,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 4,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 4,
+        "conditions": 0
+      },
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 5,
+        "dest": 8,
+        "conditions": 0
+      },
+      {
+        "verb": 15,
+        "dest": 8,
+        "conditions": 0
+      },
+      {
+        "verb": 16,
+        "dest": 8,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 8,
+        "conditions": 0
+      },
+      {
+        "verb": 60,
+        "dest": 595,
+        "conditions": 0
+      },
+      {
+        "verb": 14,
+        "dest": 595,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 595,
+        "conditions": 0
+      }
+    ],
+    "8": [
+      {
+        "verb": 6,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 5,
+        "conditions": 0
+      },
+      {
+        "verb": 12,
+        "dest": 1,
+        "conditions": 0
+      },
+      {
+        "verb": 4,
+        "dest": 7,
+        "conditions": 0
+      },
+      {
+        "verb": 13,
+        "dest": 7,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 7,
+        "conditions": 0
+      },
+      {
+        "verb": 3,
+        "dest": 9,
+        "conditions": 303
+      },
+      {
+        "verb": 19,
+        "dest": 9,
+        "conditions": 303
+      },
+      {
+        "verb": 30,
+        "dest": 9,
+        "conditions": 303
+      },
+      {
+        "verb": 3,
+        "dest": 593,
+        "conditions": 0
+      }
+    ],
+    "9": [
+      {
+        "verb": 11,
+        "dest": 8,
+        "conditions": 303
+      },
+      {
+        "verb": 29,
+        "dest": 8,
+        "conditions": 303
+      },
+      {
+        "verb": 11,
+        "dest": 593,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 18,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 19,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 14,
+        "conditions": 0
+      },
+      {
+        "verb": 51,
+        "dest": 11,
+        "conditions": 0
+      }
+    ],
+    "10": [
+      {
+        "verb": 11,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 20,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 21,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 19,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 22,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 51,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 14,
+        "conditions": 0
+      }
+    ],
+    "11": [
+      {
+        "verb": 63,
+        "dest": 8,
+        "conditions": 303
+      },
+      {
+        "verb": 64,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 18,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 24,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 10,
+        "conditions": 0
+      },
+      {
+        "verb": 25,
+        "dest": 12,
+        "conditions": 0
+      },
+      {
+        "verb": 19,
+        "dest": 12,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 12,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 12,
+        "conditions": 0
+      },
+      {
+        "verb": 62,
+        "dest": 3,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 14,
+        "conditions": 0
+      }
+    ],
+    "12": [
+      {
+        "verb": 63,
+        "dest": 8,
+        "conditions": 303
+      },
+      {
+        "verb": 64,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 51,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 19,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 14,
+        "conditions": 0
+      }
+    ],
+    "13": [
+      {
+        "verb": 63,
+        "dest": 8,
+        "conditions": 303
+      },
+      {
+        "verb": 64,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 51,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 25,
+        "dest": 12,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 12,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 14,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 14,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 14,
+        "conditions": 0
+      }
+    ],
+    "14": [
+      {
+        "verb": 63,
+        "dest": 8,
+        "conditions": 303
+      },
+      {
+        "verb": 64,
+        "dest": 9,
+        "conditions": 0
+      },
+      {
+        "verb": 51,
+        "dest": 11,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 20,
+        "conditions": 150
+      },
+      {
+        "verb": 31,
+        "dest": 20,
+        "conditions": 150
+      },
+      {
+        "verb": 34,
+        "dest": 20,
+        "conditions": 150
+      },
+      {
+        "verb": 30,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 33,
+        "dest": 16,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 16,
+        "conditions": 0
+      }
+    ],
+    "15": [
+      {
+        "verb": 36,
+        "dest": 18,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 18,
+        "conditions": 0
+      },
+      {
+        "verb": 7,
+        "dest": 17,
+        "conditions": 0
+      },
+      {
+        "verb": 38,
+        "dest": 17,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 17,
+        "conditions": 0
+      },
+      {
+        "verb": 10,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 22,
+        "conditions": 150
+      },
+      {
+        "verb": 31,
+        "dest": 22,
+        "conditions": 150
+      },
+      {
+        "verb": 34,
+        "dest": 22,
+        "conditions": 150
+      },
+      {
+        "verb": 35,
+        "dest": 22,
+        "conditions": 150
+      },
+      {
+        "verb": 23,
+        "dest": 22,
+        "conditions": 150
+      },
+      {
+        "verb": 43,
+        "dest": 22,
+        "conditions": 150
+      },
+      {
+        "verb": 29,
+        "dest": 14,
+        "conditions": 0
+      },
+      {
+        "verb": 55,
+        "dest": 34,
+        "conditions": 0
+      }
+    ],
+    "16": [
+      {
+        "verb": 1,
+        "dest": 14,
+        "conditions": 0
+      }
+    ],
+    "17": [
+      {
+        "verb": 38,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 596,
+        "conditions": 312
+      },
+      {
+        "verb": 7,
+        "dest": 21,
+        "conditions": 412
+      },
+      {
+        "verb": 41,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 42,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 44,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 69,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 41,
+        "dest": 27,
+        "conditions": 0
+      }
+    ],
+    "18": [
+      {
+        "verb": 38,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 15,
+        "conditions": 0
+      }
+    ],
+    "19": [
+      {
+        "verb": 10,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 15,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 28,
+        "conditions": 311
+      },
+      {
+        "verb": 36,
+        "dest": 28,
+        "conditions": 311
+      },
+      {
+        "verb": 46,
+        "dest": 29,
+        "conditions": 311
+      },
+      {
+        "verb": 37,
+        "dest": 29,
+        "conditions": 311
+      },
+      {
+        "verb": 44,
+        "dest": 30,
+        "conditions": 311
+      },
+      {
+        "verb": 7,
+        "dest": 30,
+        "conditions": 311
+      },
+      {
+        "verb": 45,
+        "dest": 32,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 74,
+        "conditions": 35
+      },
+      {
+        "verb": 49,
+        "dest": 32,
+        "conditions": 211
+      },
+      {
+        "verb": 66,
+        "dest": 74,
+        "conditions": 0
+      }
+    ],
+    "20": [
+      {
+        "verb": 1,
+        "dest": 0,
+        "conditions": 0
+      }
+    ],
+    "21": [
+      {
+        "verb": 1,
+        "dest": 0,
+        "conditions": 0
+      }
+    ],
+    "22": [
+      {
+        "verb": 1,
+        "dest": 15,
+        "conditions": 0
+      }
+    ],
+    "23": [
+      {
+        "verb": 43,
+        "dest": 67,
+        "conditions": 0
+      },
+      {
+        "verb": 42,
+        "dest": 67,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 68,
+        "conditions": 0
+      },
+      {
+        "verb": 61,
+        "dest": 68,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 25,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 25,
+        "conditions": 0
+      },
+      {
+        "verb": 52,
+        "dest": 648,
+        "conditions": 0
+      }
+    ],
+    "24": [
+      {
+        "verb": 29,
+        "dest": 67,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 67,
+        "conditions": 0
+      }
+    ],
+    "25": [
+      {
+        "verb": 29,
+        "dest": 23,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 23,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 31,
+        "conditions": 724
+      },
+      {
+        "verb": 56,
+        "dest": 26,
+        "conditions": 0
+      }
+    ],
+    "26": [
+      {
+        "verb": 1,
+        "dest": 88,
+        "conditions": 0
+      }
+    ],
+    "27": [
+      {
+        "verb": 39,
+        "dest": 596,
+        "conditions": 312
+      },
+      {
+        "verb": 7,
+        "dest": 21,
+        "conditions": 412
+      },
+      {
+        "verb": 41,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 42,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 43,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 69,
+        "dest": 597,
+        "conditions": 412
+      },
+      {
+        "verb": 41,
+        "dest": 17,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 40,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 41,
+        "conditions": 0
+      }
+    ],
+    "28": [
+      {
+        "verb": 38,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 55,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 36,
+        "conditions": 0
+      },
+      {
+        "verb": 52,
+        "dest": 36,
+        "conditions": 0
+      }
+    ],
+    "29": [
+      {
+        "verb": 38,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 19,
+        "conditions": 0
+      }
+    ],
+    "30": [
+      {
+        "verb": 38,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 62,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 62,
+        "conditions": 0
+      }
+    ],
+    "31": [
+      {
+        "verb": 1,
+        "dest": 89,
+        "conditions": 524
+      },
+      {
+        "verb": 1,
+        "dest": 90,
+        "conditions": 0
+      }
+    ],
+    "32": [
+      {
+        "verb": 1,
+        "dest": 19,
+        "conditions": 0
+      }
+    ],
+    "33": [
+      {
+        "verb": 65,
+        "dest": 3,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 28,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 34,
+        "conditions": 0
+      },
+      {
+        "verb": 53,
+        "dest": 34,
+        "conditions": 0
+      },
+      {
+        "verb": 54,
+        "dest": 34,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 35,
+        "conditions": 0
+      },
+      {
+        "verb": 71,
+        "dest": 302,
+        "conditions": 159
+      },
+      {
+        "verb": 71,
+        "dest": 100,
+        "conditions": 0
+      }
+    ],
+    "34": [
+      {
+        "verb": 30,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 55,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 15,
+        "conditions": 0
+      }
+    ],
+    "35": [
+      {
+        "verb": 43,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 55,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 20,
+        "conditions": 0
+      }
+    ],
+    "36": [
+      {
+        "verb": 43,
+        "dest": 37,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 37,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 28,
+        "conditions": 0
+      },
+      {
+        "verb": 52,
+        "dest": 28,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 39,
+        "conditions": 0
+      },
+      {
+        "verb": 70,
+        "dest": 65,
+        "conditions": 0
+      }
+    ],
+    "37": [
+      {
+        "verb": 44,
+        "dest": 36,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 36,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 38,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 38,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 38,
+        "conditions": 0
+      }
+    ],
+    "38": [
+      {
+        "verb": 56,
+        "dest": 37,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 37,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 37,
+        "conditions": 0
+      },
+      {
+        "verb": 60,
+        "dest": 595,
+        "conditions": 0
+      },
+      {
+        "verb": 14,
+        "dest": 595,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 595,
+        "conditions": 0
+      },
+      {
+        "verb": 4,
+        "dest": 595,
+        "conditions": 0
+      },
+      {
+        "verb": 5,
+        "dest": 595,
+        "conditions": 0
+      }
+    ],
+    "39": [
+      {
+        "verb": 43,
+        "dest": 36,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 36,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 64,
+        "conditions": 0
+      },
+      {
+        "verb": 52,
+        "dest": 64,
+        "conditions": 0
+      },
+      {
+        "verb": 58,
+        "dest": 64,
+        "conditions": 0
+      },
+      {
+        "verb": 70,
+        "dest": 65,
+        "conditions": 0
+      }
+    ],
+    "40": [
+      {
+        "verb": 1,
+        "dest": 41,
+        "conditions": 0
+      }
+    ],
+    "41": [
+      {
+        "verb": 46,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 27,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 59,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 60,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 60,
+        "conditions": 0
+      }
+    ],
+    "42": [
+      {
+        "verb": 29,
+        "dest": 41,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 43,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 45,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 80,
+        "conditions": 0
+      }
+    ],
+    "43": [
+      {
+        "verb": 44,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 44,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 45,
+        "conditions": 0
+      }
+    ],
+    "44": [
+      {
+        "verb": 43,
+        "dest": 43,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 48,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 50,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 82,
+        "conditions": 0
+      }
+    ],
+    "45": [
+      {
+        "verb": 44,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 43,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 46,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 47,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 87,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 87,
+        "conditions": 0
+      }
+    ],
+    "46": [
+      {
+        "verb": 44,
+        "dest": 45,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 45,
+        "conditions": 0
+      }
+    ],
+    "47": [
+      {
+        "verb": 43,
+        "dest": 45,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 45,
+        "conditions": 0
+      }
+    ],
+    "48": [
+      {
+        "verb": 29,
+        "dest": 44,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 44,
+        "conditions": 0
+      }
+    ],
+    "49": [
+      {
+        "verb": 43,
+        "dest": 50,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 51,
+        "conditions": 0
+      }
+    ],
+    "50": [
+      {
+        "verb": 43,
+        "dest": 44,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 49,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 51,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 52,
+        "conditions": 0
+      }
+    ],
+    "51": [
+      {
+        "verb": 44,
+        "dest": 49,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 50,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 52,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 53,
+        "conditions": 0
+      }
+    ],
+    "52": [
+      {
+        "verb": 44,
+        "dest": 50,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 51,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 52,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 53,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 55,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 86,
+        "conditions": 0
+      }
+    ],
+    "53": [
+      {
+        "verb": 44,
+        "dest": 51,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 52,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 54,
+        "conditions": 0
+      }
+    ],
+    "54": [
+      {
+        "verb": 44,
+        "dest": 53,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 53,
+        "conditions": 0
+      }
+    ],
+    "55": [
+      {
+        "verb": 44,
+        "dest": 52,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 55,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 56,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 57,
+        "conditions": 0
+      }
+    ],
+    "56": [
+      {
+        "verb": 29,
+        "dest": 55,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 55,
+        "conditions": 0
+      }
+    ],
+    "57": [
+      {
+        "verb": 30,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 13,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 55,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 58,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 83,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 84,
+        "conditions": 0
+      }
+    ],
+    "58": [
+      {
+        "verb": 43,
+        "dest": 57,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 57,
+        "conditions": 0
+      }
+    ],
+    "59": [
+      {
+        "verb": 1,
+        "dest": 27,
+        "conditions": 0
+      }
+    ],
+    "60": [
+      {
+        "verb": 43,
+        "dest": 41,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 41,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 41,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 61,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 62,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 62,
+        "conditions": 0
+      },
+      {
+        "verb": 52,
+        "dest": 62,
+        "conditions": 0
+      }
+    ],
+    "61": [
+      {
+        "verb": 43,
+        "dest": 60,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 62,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 107,
+        "conditions": 100
+      }
+    ],
+    "62": [
+      {
+        "verb": 44,
+        "dest": 60,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 63,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 30,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 61,
+        "conditions": 0
+      }
+    ],
+    "63": [
+      {
+        "verb": 46,
+        "dest": 62,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 62,
+        "conditions": 0
+      }
+    ],
+    "64": [
+      {
+        "verb": 29,
+        "dest": 39,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 39,
+        "conditions": 0
+      },
+      {
+        "verb": 59,
+        "dest": 39,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 70,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 103,
+        "conditions": 0
+      },
+      {
+        "verb": 74,
+        "dest": 103,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 106,
+        "conditions": 0
+      }
+    ],
+    "65": [
+      {
+        "verb": 43,
+        "dest": 64,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 66,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 556,
+        "conditions": 80
+      },
+      {
+        "verb": 61,
+        "dest": 68,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 556,
+        "conditions": 80
+      },
+      {
+        "verb": 29,
+        "dest": 70,
+        "conditions": 50
+      },
+      {
+        "verb": 29,
+        "dest": 39,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 556,
+        "conditions": 60
+      },
+      {
+        "verb": 45,
+        "dest": 72,
+        "conditions": 75
+      },
+      {
+        "verb": 45,
+        "dest": 71,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 556,
+        "conditions": 80
+      },
+      {
+        "verb": 30,
+        "dest": 106,
+        "conditions": 0
+      }
+    ],
+    "66": [
+      {
+        "verb": 47,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 67,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 556,
+        "conditions": 80
+      },
+      {
+        "verb": 25,
+        "dest": 77,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 96,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 556,
+        "conditions": 50
+      },
+      {
+        "verb": 72,
+        "dest": 97,
+        "conditions": 0
+      }
+    ],
+    "67": [
+      {
+        "verb": 43,
+        "dest": 66,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 23,
+        "conditions": 0
+      },
+      {
+        "verb": 42,
+        "dest": 23,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 24,
+        "conditions": 0
+      },
+      {
+        "verb": 31,
+        "dest": 24,
+        "conditions": 0
+      }
+    ],
+    "68": [
+      {
+        "verb": 46,
+        "dest": 23,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 69,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 69,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 65,
+        "conditions": 0
+      }
+    ],
+    "69": [
+      {
+        "verb": 30,
+        "dest": 68,
+        "conditions": 0
+      },
+      {
+        "verb": 61,
+        "dest": 68,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 120,
+        "conditions": 331
+      },
+      {
+        "verb": 46,
+        "dest": 119,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 109,
+        "conditions": 0
+      },
+      {
+        "verb": 75,
+        "dest": 113,
+        "conditions": 0
+      }
+    ],
+    "70": [
+      {
+        "verb": 45,
+        "dest": 71,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 111,
+        "conditions": 0
+      }
+    ],
+    "71": [
+      {
+        "verb": 48,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 70,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 110,
+        "conditions": 0
+      }
+    ],
+    "72": [
+      {
+        "verb": 70,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 118,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 73,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 97,
+        "conditions": 0
+      },
+      {
+        "verb": 72,
+        "dest": 97,
+        "conditions": 0
+      }
+    ],
+    "73": [
+      {
+        "verb": 46,
+        "dest": 72,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 72,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 72,
+        "conditions": 0
+      }
+    ],
+    "74": [
+      {
+        "verb": 43,
+        "dest": 19,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 120,
+        "conditions": 331
+      },
+      {
+        "verb": 44,
+        "dest": 121,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 75,
+        "conditions": 0
+      }
+    ],
+    "75": [
+      {
+        "verb": 46,
+        "dest": 76,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 77,
+        "conditions": 0
+      }
+    ],
+    "76": [
+      {
+        "verb": 45,
+        "dest": 75,
+        "conditions": 0
+      }
+    ],
+    "77": [
+      {
+        "verb": 43,
+        "dest": 75,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 78,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 66,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 66,
+        "conditions": 0
+      }
+    ],
+    "78": [
+      {
+        "verb": 46,
+        "dest": 77,
+        "conditions": 0
+      }
+    ],
+    "79": [
+      {
+        "verb": 1,
+        "dest": 3,
+        "conditions": 0
+      }
+    ],
+    "80": [
+      {
+        "verb": 45,
+        "dest": 42,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 80,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 80,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 81,
+        "conditions": 0
+      }
+    ],
+    "81": [
+      {
+        "verb": 44,
+        "dest": 80,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 80,
+        "conditions": 0
+      }
+    ],
+    "82": [
+      {
+        "verb": 46,
+        "dest": 44,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 44,
+        "conditions": 0
+      }
+    ],
+    "83": [
+      {
+        "verb": 46,
+        "dest": 57,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 84,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 85,
+        "conditions": 0
+      }
+    ],
+    "84": [
+      {
+        "verb": 45,
+        "dest": 57,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 83,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 114,
+        "conditions": 0
+      }
+    ],
+    "85": [
+      {
+        "verb": 43,
+        "dest": 83,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 83,
+        "conditions": 0
+      }
+    ],
+    "86": [
+      {
+        "verb": 29,
+        "dest": 52,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 52,
+        "conditions": 0
+      }
+    ],
+    "87": [
+      {
+        "verb": 29,
+        "dest": 45,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 45,
+        "conditions": 0
+      }
+    ],
+    "88": [
+      {
+        "verb": 30,
+        "dest": 25,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 25,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 25,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 20,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 27,
+        "dest": 92,
+        "conditions": 0
+      }
+    ],
+    "89": [
+      {
+        "verb": 1,
+        "dest": 25,
+        "conditions": 0
+      }
+    ],
+    "90": [
+      {
+        "verb": 1,
+        "dest": 23,
+        "conditions": 0
+      }
+    ],
+    "91": [
+      {
+        "verb": 45,
+        "dest": 95,
+        "conditions": 0
+      },
+      {
+        "verb": 73,
+        "dest": 95,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 95,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 72,
+        "conditions": 0
+      },
+      {
+        "verb": 56,
+        "dest": 72,
+        "conditions": 0
+      }
+    ],
+    "92": [
+      {
+        "verb": 46,
+        "dest": 88,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 93,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 94,
+        "conditions": 0
+      }
+    ],
+    "93": [
+      {
+        "verb": 46,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 27,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 92,
+        "conditions": 0
+      }
+    ],
+    "94": [
+      {
+        "verb": 46,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 27,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 95,
+        "conditions": 309
+      },
+      {
+        "verb": 3,
+        "dest": 95,
+        "conditions": 309
+      },
+      {
+        "verb": 73,
+        "dest": 95,
+        "conditions": 309
+      },
+      {
+        "verb": 45,
+        "dest": 611,
+        "conditions": 0
+      }
+    ],
+    "95": [
+      {
+        "verb": 46,
+        "dest": 94,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 94,
+        "conditions": 0
+      },
+      {
+        "verb": 27,
+        "dest": 92,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 91,
+        "conditions": 0
+      }
+    ],
+    "96": [
+      {
+        "verb": 44,
+        "dest": 66,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 66,
+        "conditions": 0
+      }
+    ],
+    "97": [
+      {
+        "verb": 48,
+        "dest": 66,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 72,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 72,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 98,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 98,
+        "conditions": 0
+      },
+      {
+        "verb": 73,
+        "dest": 98,
+        "conditions": 0
+      }
+    ],
+    "98": [
+      {
+        "verb": 46,
+        "dest": 97,
+        "conditions": 0
+      },
+      {
+        "verb": 72,
+        "dest": 97,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 99,
+        "conditions": 0
+      }
+    ],
+    "99": [
+      {
+        "verb": 50,
+        "dest": 98,
+        "conditions": 0
+      },
+      {
+        "verb": 73,
+        "dest": 98,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 301,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 301,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 100,
+        "conditions": 0
+      }
+    ],
+    "100": [
+      {
+        "verb": 44,
+        "dest": 301,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 301,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 301,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 99,
+        "conditions": 0
+      },
+      {
+        "verb": 71,
+        "dest": 302,
+        "conditions": 159
+      },
+      {
+        "verb": 71,
+        "dest": 33,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 101,
+        "conditions": 0
+      },
+      {
+        "verb": 22,
+        "dest": 101,
+        "conditions": 0
+      }
+    ],
+    "101": [
+      {
+        "verb": 46,
+        "dest": 100,
+        "conditions": 0
+      },
+      {
+        "verb": 71,
+        "dest": 100,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 100,
+        "conditions": 0
+      }
+    ],
+    "102": [
+      {
+        "verb": 30,
+        "dest": 103,
+        "conditions": 0
+      },
+      {
+        "verb": 74,
+        "dest": 103,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 103,
+        "conditions": 0
+      }
+    ],
+    "103": [
+      {
+        "verb": 29,
+        "dest": 102,
+        "conditions": 0
+      },
+      {
+        "verb": 38,
+        "dest": 102,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 104,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 618,
+        "conditions": 114
+      },
+      {
+        "verb": 46,
+        "dest": 619,
+        "conditions": 115
+      },
+      {
+        "verb": 46,
+        "dest": 64,
+        "conditions": 0
+      }
+    ],
+    "104": [
+      {
+        "verb": 29,
+        "dest": 103,
+        "conditions": 0
+      },
+      {
+        "verb": 74,
+        "dest": 103,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 105,
+        "conditions": 0
+      }
+    ],
+    "105": [
+      {
+        "verb": 29,
+        "dest": 104,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 104,
+        "conditions": 0
+      },
+      {
+        "verb": 74,
+        "dest": 103,
+        "conditions": 0
+      }
+    ],
+    "106": [
+      {
+        "verb": 29,
+        "dest": 64,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 65,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 108,
+        "conditions": 0
+      }
+    ],
+    "107": [
+      {
+        "verb": 46,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 61,
+        "conditions": 0
+      }
+    ],
+    "108": [
+      {
+        "verb": 43,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 45,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 46,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 47,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 48,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 49,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 50,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 29,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 30,
+        "dest": 556,
+        "conditions": 95
+      },
+      {
+        "verb": 43,
+        "dest": 106,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 626,
+        "conditions": 0
+      }
+    ],
+    "109": [
+      {
+        "verb": 46,
+        "dest": 69,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 113,
+        "conditions": 0
+      },
+      {
+        "verb": 75,
+        "dest": 113,
+        "conditions": 0
+      }
+    ],
+    "110": [
+      {
+        "verb": 44,
+        "dest": 71,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 20,
+        "conditions": 0
+      }
+    ],
+    "111": [
+      {
+        "verb": 45,
+        "dest": 70,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 50,
+        "conditions": 40
+      },
+      {
+        "verb": 39,
+        "dest": 50,
+        "conditions": 40
+      },
+      {
+        "verb": 56,
+        "dest": 50,
+        "conditions": 40
+      },
+      {
+        "verb": 30,
+        "dest": 53,
+        "conditions": 50
+      },
+      {
+        "verb": 30,
+        "dest": 45,
+        "conditions": 0
+      }
+    ],
+    "112": [
+      {
+        "verb": 49,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 140,
+        "conditions": 0
+      }
+    ],
+    "113": [
+      {
+        "verb": 46,
+        "dest": 109,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 109,
+        "conditions": 0
+      },
+      {
+        "verb": 109,
+        "dest": 109,
+        "conditions": 0
+      }
+    ],
+    "114": [
+      {
+        "verb": 48,
+        "dest": 84,
+        "conditions": 0
+      }
+    ],
+    "115": [
+      {
+        "verb": 49,
+        "dest": 116,
+        "conditions": 0
+      }
+    ],
+    "116": [
+      {
+        "verb": 47,
+        "dest": 115,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 593,
+        "conditions": 0
+      }
+    ],
+    "117": [
+      {
+        "verb": 49,
+        "dest": 118,
+        "conditions": 0
+      },
+      {
+        "verb": 41,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 42,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 69,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 47,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 41,
+        "dest": 661,
+        "conditions": 332
+      },
+      {
+        "verb": 41,
+        "dest": 303,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 21,
+        "conditions": 332
+      },
+      {
+        "verb": 39,
+        "dest": 596,
+        "conditions": 0
+      }
+    ],
+    "118": [
+      {
+        "verb": 30,
+        "dest": 72,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 117,
+        "conditions": 0
+      }
+    ],
+    "119": [
+      {
+        "verb": 45,
+        "dest": 69,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 69,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 653,
+        "conditions": 0
+      },
+      {
+        "verb": 7,
+        "dest": 653,
+        "conditions": 0
+      }
+    ],
+    "120": [
+      {
+        "verb": 45,
+        "dest": 69,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 74,
+        "conditions": 0
+      }
+    ],
+    "121": [
+      {
+        "verb": 43,
+        "dest": 74,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 74,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 653,
+        "conditions": 0
+      },
+      {
+        "verb": 7,
+        "dest": 653,
+        "conditions": 0
+      }
+    ],
+    "122": [
+      {
+        "verb": 47,
+        "dest": 123,
+        "conditions": 0
+      },
+      {
+        "verb": 41,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 42,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 69,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 49,
+        "dest": 660,
+        "conditions": 233
+      },
+      {
+        "verb": 41,
+        "dest": 303,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 596,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      },
+      {
+        "verb": 40,
+        "dest": 129,
+        "conditions": 0
+      }
+    ],
+    "123": [
+      {
+        "verb": 44,
+        "dest": 122,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      },
+      {
+        "verb": 40,
+        "dest": 129,
+        "conditions": 0
+      }
+    ],
+    "124": [
+      {
+        "verb": 44,
+        "dest": 123,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 36,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 128,
+        "conditions": 0
+      },
+      {
+        "verb": 37,
+        "dest": 128,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 128,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      },
+      {
+        "verb": 40,
+        "dest": 129,
+        "conditions": 0
+      }
+    ],
+    "125": [
+      {
+        "verb": 46,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 126,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 127,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 127,
+        "conditions": 0
+      }
+    ],
+    "126": [
+      {
+        "verb": 46,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 23,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 610,
+        "conditions": 0
+      },
+      {
+        "verb": 39,
+        "dest": 610,
+        "conditions": 0
+      }
+    ],
+    "127": [
+      {
+        "verb": 44,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 17,
+        "dest": 125,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      }
+    ],
+    "128": [
+      {
+        "verb": 45,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 129,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 129,
+        "conditions": 0
+      },
+      {
+        "verb": 40,
+        "dest": 129,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      }
+    ],
+    "129": [
+      {
+        "verb": 44,
+        "dest": 128,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 128,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 130,
+        "conditions": 0
+      },
+      {
+        "verb": 19,
+        "dest": 130,
+        "conditions": 0
+      },
+      {
+        "verb": 40,
+        "dest": 130,
+        "conditions": 0
+      },
+      {
+        "verb": 3,
+        "dest": 130,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      }
+    ],
+    "130": [
+      {
+        "verb": 44,
+        "dest": 129,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 129,
+        "conditions": 0
+      },
+      {
+        "verb": 77,
+        "dest": 124,
+        "conditions": 0
+      },
+      {
+        "verb": 28,
+        "dest": 126,
+        "conditions": 0
+      }
+    ],
+    "131": [
+      {
+        "verb": 44,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "132": [
+      {
+        "verb": 50,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "133": [
+      {
+        "verb": 29,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "134": [
+      {
+        "verb": 47,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "135": [
+      {
+        "verb": 45,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "136": [
+      {
+        "verb": 43,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "137": [
+      {
+        "verb": 48,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "138": [
+      {
+        "verb": 30,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 49,
+        "dest": 139,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "139": [
+      {
+        "verb": 49,
+        "dest": 107,
+        "conditions": 0
+      },
+      {
+        "verb": 50,
+        "dest": 131,
+        "conditions": 0
+      },
+      {
+        "verb": 43,
+        "dest": 132,
+        "conditions": 0
+      },
+      {
+        "verb": 44,
+        "dest": 133,
+        "conditions": 0
+      },
+      {
+        "verb": 45,
+        "dest": 134,
+        "conditions": 0
+      },
+      {
+        "verb": 30,
+        "dest": 135,
+        "conditions": 0
+      },
+      {
+        "verb": 48,
+        "dest": 136,
+        "conditions": 0
+      },
+      {
+        "verb": 29,
+        "dest": 137,
+        "conditions": 0
+      },
+      {
+        "verb": 46,
+        "dest": 138,
+        "conditions": 0
+      },
+      {
+        "verb": 47,
+        "dest": 112,
+        "conditions": 0
+      }
+    ],
+    "140": [
+      {
+        "verb": 45,
+        "dest": 112,
+        "conditions": 0
+      },
+      {
+        "verb": 11,
+        "dest": 112,
+        "conditions": 0
+      }
+    ]
+  },
+  "vocabulary": {
+    "2": [
+      "road",
+      "hill"
+    ],
+    "3": [
+      "enter"
+    ],
+    "4": [
+      "upstr"
+    ],
+    "5": [
+      "downs"
+    ],
+    "6": [
+      "fores"
+    ],
+    "7": [
+      "forwa",
+      "conti",
+      "onwar"
+    ],
+    "8": [
+      "back",
+      "retur",
+      "retre"
+    ],
+    "9": [
+      "valle"
+    ],
+    "10": [
+      "stair"
+    ],
+    "11": [
+      "out",
+      "outsi",
+      "exit",
+      "leave"
+    ],
+    "12": [
+      "build",
+      "house"
+    ],
+    "13": [
+      "gully"
+    ],
+    "14": [
+      "strea"
+    ],
+    "15": [
+      "rock"
+    ],
+    "16": [
+      "bed"
+    ],
+    "17": [
+      "crawl"
+    ],
+    "18": [
+      "cobbl"
+    ],
+    "19": [
+      "inwar",
+      "insid",
+      "in"
+    ],
+    "20": [
+      "surfa"
+    ],
+    "21": [
+      "null",
+      "nowhe"
+    ],
+    "22": [
+      "dark"
+    ],
+    "23": [
+      "passa",
+      "tunne"
+    ],
+    "24": [
+      "low"
+    ],
+    "25": [
+      "canyo"
+    ],
+    "26": [
+      "awkwa"
+    ],
+    "27": [
+      "giant"
+    ],
+    "28": [
+      "view"
+    ],
+    "29": [
+      "upwar",
+      "up",
+      "u",
+      "above",
+      "ascen"
+    ],
+    "30": [
+      "d",
+      "downw",
+      "down",
+      "desce"
+    ],
+    "31": [
+      "pit"
+    ],
+    "32": [
+      "outdo"
+    ],
+    "33": [
+      "crack"
+    ],
+    "34": [
+      "steps"
+    ],
+    "35": [
+      "dome"
+    ],
+    "36": [
+      "left"
+    ],
+    "37": [
+      "right"
+    ],
+    "38": [
+      "hall"
+    ],
+    "39": [
+      "jump"
+    ],
+    "40": [
+      "barre"
+    ],
+    "41": [
+      "over"
+    ],
+    "42": [
+      "acros"
+    ],
+    "43": [
+      "east",
+      "e"
+    ],
+    "44": [
+      "west",
+      "w"
+    ],
+    "45": [
+      "north",
+      "n"
+    ],
+    "46": [
+      "south",
+      "s"
+    ],
+    "47": [
+      "ne"
+    ],
+    "48": [
+      "se"
+    ],
+    "49": [
+      "sw"
+    ],
+    "50": [
+      "nw"
+    ],
+    "51": [
+      "debri"
+    ],
+    "52": [
+      "hole"
+    ],
+    "53": [
+      "wall"
+    ],
+    "54": [
+      "broke"
+    ],
+    "55": [
+      "y2"
+    ],
+    "56": [
+      "climb"
+    ],
+    "57": [
+      "look",
+      "exami",
+      "touch",
+      "descr"
+    ],
+    "58": [
+      "floor"
+    ],
+    "59": [
+      "room"
+    ],
+    "60": [
+      "slit"
+    ],
+    "61": [
+      "slab",
+      "slabr"
+    ],
+    "62": [
+      "xyzzy"
+    ],
+    "63": [
+      "depre"
+    ],
+    "64": [
+      "entra"
+    ],
+    "65": [
+      "plugh"
+    ],
+    "66": [
+      "secre"
+    ],
+    "67": [
+      "cave"
+    ],
+    "69": [
+      "cross"
+    ],
+    "70": [
+      "bedqu"
+    ],
+    "71": [
+      "plove"
+    ],
+    "72": [
+      "orien"
+    ],
+    "73": [
+      "caver"
+    ],
+    "74": [
+      "shell"
+    ],
+    "75": [
+      "reser"
+    ],
+    "76": [
+      "main",
+      "offic"
+    ],
+    "77": [
+      "fork"
+    ],
+    "1001": [
+      "keys",
+      "key"
+    ],
+    "1002": [
+      "lamp",
+      "headl",
+      "lante"
+    ],
+    "1003": [
+      "grate"
+    ],
+    "1004": [
+      "cage"
+    ],
+    "1005": [
+      "wand",
+      "rod"
+    ],
+    "1006": [
+      "wand"
+    ],
+    "1007": [
+      "steps"
+    ],
+    "1008": [
+      "bird"
+    ],
+    "1009": [
+      "door"
+    ],
+    "1010": [
+      "pillo",
+      "velve"
+    ],
+    "1011": [
+      "snake"
+    ],
+    "1012": [
+      "fissu"
+    ],
+    "1013": [
+      "table"
+    ],
+    "1014": [
+      "clam"
+    ],
+    "1015": [
+      "oyste"
+    ],
+    "1016": [
+      "magaz",
+      "issue",
+      "spelu",
+      "\"spel"
+    ],
+    "1017": [
+      "dwarf",
+      "dwarv"
+    ],
+    "1018": [
+      "knife",
+      "knive"
+    ],
+    "1019": [
+      "food",
+      "ratio"
+    ],
+    "1020": [
+      "bottl",
+      "jar"
+    ],
+    "1021": [
+      "water",
+      "h2o"
+    ],
+    "1022": [
+      "oil"
+    ],
+    "1023": [
+      "mirro"
+    ],
+    "1024": [
+      "plant",
+      "beans"
+    ],
+    "1026": [
+      "stala"
+    ],
+    "1027": [
+      "shado",
+      "figur"
+    ],
+    "1028": [
+      "axe"
+    ],
+    "1029": [
+      "drawi"
+    ],
+    "1030": [
+      "pirat"
+    ],
+    "1031": [
+      "drago"
+    ],
+    "1032": [
+      "chasm"
+    ],
+    "1033": [
+      "troll"
+    ],
+    "1035": [
+      "bear"
+    ],
+    "1036": [
+      "messa"
+    ],
+    "1037": [
+      "volca"
+    ],
+    "1038": [
+      "machi",
+      "vendi"
+    ],
+    "1039": [
+      "batte"
+    ],
+    "1040": [
+      "carpe",
+      "moss"
+    ],
+    "1050": [
+      "gold",
+      "nugge"
+    ],
+    "1051": [
+      "diamo"
+    ],
+    "1052": [
+      "silve",
+      "bars"
+    ],
+    "1053": [
+      "jewel"
+    ],
+    "1054": [
+      "coins"
+    ],
+    "1055": [
+      "chest",
+      "box",
+      "treas"
+    ],
+    "1056": [
+      "eggs",
+      "egg",
+      "nest"
+    ],
+    "1057": [
+      "tride"
+    ],
+    "1058": [
+      "vase",
+      "ming",
+      "shard",
+      "potte"
+    ],
+    "1059": [
+      "emera"
+    ],
+    "1060": [
+      "plati",
+      "pyram"
+    ],
+    "1061": [
+      "pearl"
+    ],
+    "1062": [
+      "rug",
+      "persi"
+    ],
+    "1063": [
+      "spice"
+    ],
+    "1064": [
+      "chain"
+    ],
+    "2001": [
+      "carry",
+      "take",
+      "keep",
+      "catch",
+      "steal",
+      "captu",
+      "get",
+      "tote"
+    ],
+    "2002": [
+      "drop",
+      "relea",
+      "free",
+      "disca",
+      "dump"
+    ],
+    "2003": [
+      "say",
+      "chant",
+      "sing",
+      "utter",
+      "mumbl"
+    ],
+    "2004": [
+      "unloc",
+      "open"
+    ],
+    "2005": [
+      "nothi"
+    ],
+    "2006": [
+      "lock",
+      "close"
+    ],
+    "2007": [
+      "light",
+      "on"
+    ],
+    "2008": [
+      "extin",
+      "off"
+    ],
+    "2009": [
+      "wave",
+      "shake",
+      "swing"
+    ],
+    "2010": [
+      "calm",
+      "placa",
+      "tame"
+    ],
+    "2011": [
+      "walk",
+      "run",
+      "trave",
+      "go",
+      "proce",
+      "conti",
+      "explo",
+      "goto",
+      "follo",
+      "turn"
+    ],
+    "2012": [
+      "attac",
+      "kill",
+      "slay",
+      "fight",
+      "hit",
+      "strik"
+    ],
+    "2013": [
+      "pour"
+    ],
+    "2014": [
+      "eat",
+      "devou"
+    ],
+    "2015": [
+      "drink"
+    ],
+    "2016": [
+      "rub"
+    ],
+    "2017": [
+      "throw",
+      "toss"
+    ],
+    "2018": [
+      "quit"
+    ],
+    "2019": [
+      "find",
+      "where"
+    ],
+    "2020": [
+      "inven",
+      "inv"
+    ],
+    "2021": [
+      "feed"
+    ],
+    "2022": [
+      "fill"
+    ],
+    "2023": [
+      "blast",
+      "deton",
+      "ignit",
+      "blowu"
+    ],
+    "2024": [
+      "score"
+    ],
+    "2025": [
+      "fee",
+      "fie",
+      "foe",
+      "foo",
+      "fum"
+    ],
+    "2026": [
+      "brief"
+    ],
+    "2027": [
+      "read",
+      "perus"
+    ],
+    "2028": [
+      "break",
+      "shatt",
+      "smash"
+    ],
+    "2029": [
+      "wake",
+      "distu"
+    ],
+    "2030": [
+      "suspe",
+      "pause",
+      "save"
+    ],
+    "2031": [
+      "hours"
+    ],
+    "3001": [
+      "fee"
+    ],
+    "3002": [
+      "fie"
+    ],
+    "3003": [
+      "foe"
+    ],
+    "3004": [
+      "foo"
+    ],
+    "3005": [
+      "fum"
+    ],
+    "3050": [
+      "sesam",
+      "opens",
+      "abra",
+      "abrac",
+      "shaza",
+      "hocus",
+      "pocus"
+    ],
+    "3051": [
+      "help",
+      "?"
+    ],
+    "3064": [
+      "tree",
+      "trees"
+    ],
+    "3066": [
+      "dig",
+      "excav"
+    ],
+    "3068": [
+      "lost"
+    ],
+    "3069": [
+      "mist"
+    ],
+    "3079": [
+      "fuck"
+    ],
+    "3139": [
+      "stop"
+    ],
+    "3142": [
+      "info",
+      "infor"
+    ],
+    "3147": [
+      "swim"
+    ]
+  },
+  "object_descriptions": {
+    "1": {
+      "name": "Set of keys",
+      "properties": {
+        "000": "There are some keys on the ground here."
+      }
+    },
+    "2": {
+      "name": "Brass lantern",
+      "properties": {
+        "000": "There is a shiny brass lamp nearby.",
+        "100": "There is a lamp shining nearby."
+      }
+    },
+    "3": {
+      "name": "*Grate",
+      "properties": {
+        "000": "The grate is locked.",
+        "100": "The grate is open."
+      }
+    },
+    "4": {
+      "name": "Wicker cage",
+      "properties": {
+        "000": "There is a small wicker cage discarded nearby."
+      }
+    },
+    "5": {
+      "name": "Black rod",
+      "properties": {
+        "000": "A three foot black rod with a rusty star on an end lies nearby."
+      }
+    },
+    "6": {
+      "name": "Black rod",
+      "properties": {
+        "000": "A three foot black rod with a rusty mark on an end lies nearby."
+      }
+    },
+    "7": {
+      "name": "*Steps",
+      "properties": {
+        "000": "Rough stone steps lead down the pit.",
+        "100": "Rough stone steps lead up the dome."
+      }
+    },
+    "8": {
+      "name": "Little bird in cage",
+      "properties": {
+        "000": "A cheerful little bird is sitting here singing.",
+        "100": "There is a little bird in the cage."
+      }
+    },
+    "9": {
+      "name": "*Rusty door",
+      "properties": {
+        "000": "The way north is barred by a massive, rusty, iron door.",
+        "100": "The way north leads through a massive, rusty, iron door."
+      }
+    },
+    "10": {
+      "name": "Velvet pillow",
+      "properties": {
+        "000": "A small velvet pillow lies on the floor."
+      }
+    },
+    "11": {
+      "name": "*Snake",
+      "properties": {
+        "000": "A huge green fierce snake bars the way!",
+        "100": ">$<  (Chased away)"
+      }
+    },
+    "12": {
+      "name": "*Fissure",
+      "properties": {
+        "000": ">$<",
+        "100": "A crystal bridge now spans the fissure.",
+        "200": "The crystal bridge has vanished!"
+      }
+    },
+    "13": {
+      "name": "*Stone tablet",
+      "properties": {
+        "000": "A massive stone tablet embedded in the wall reads:\n\"Congratulations on bringing light into the Dark-Room!\""
+      }
+    },
+    "14": {
+      "name": "Giant clam  >grunt!<",
+      "properties": {
+        "000": "There is an enormous clam here with its shell tightly closed."
+      }
+    },
+    "15": {
+      "name": "Giant oyster  >groan!<",
+      "properties": {
+        "000": "There is an enormous oyster here with its shell tightly closed.",
+        "100": "Interesting.  There seems to be something written on the underside of\nThe oyster."
+      }
+    },
+    "16": {
+      "name": "\"Spelunker Today\"",
+      "properties": {
+        "000": "There are a few recent issues of \"Spelunker Today\" magazine here."
+      }
+    },
+    "19": {
+      "name": "Tasty food",
+      "properties": {
+        "000": "There is food here."
+      }
+    },
+    "20": {
+      "name": "Small bottle",
+      "properties": {
+        "000": "There is a bottle of water here.",
+        "100": "There is an empty bottle here.",
+        "200": "There is a bottle of oil here."
+      }
+    },
+    "21": {
+      "name": "Water in the bottle",
+      "properties": {}
+    },
+    "22": {
+      "name": "Oil in the bottle",
+      "properties": {}
+    },
+    "23": {
+      "name": "*Mirror",
+      "properties": {
+        "000": ">$<"
+      }
+    },
+    "24": {
+      "name": "*Plant",
+      "properties": {
+        "000": "There is a tiny little plant in the pit, murmuring \"Water, water, ...\"",
+        "100": "The plant spurts into furious growth for a few seconds.",
+        "200": "There is a 12-foot-tall beanstalk stretching up out of the pit,\nbellowing \"WATER!! WATER!!\"",
+        "300": "The plant grows explosively, almost filling the bottom of the pit.",
+        "400": "There is a gigantic beanstalk stretching all the way up to the hole.",
+        "500": "You've over-watered the plant!  It's shriveling up!  It's, it's..."
+      }
+    },
+    "25": {
+      "name": "*Phony plant (seen in twopit room only when tall enough)",
+      "properties": {
+        "000": ">$<",
+        "100": "The top of a 12-foot-tall beanstalk is poking out of the west pit.",
+        "200": "There is a huge beanstalk growing out of the west pit up to the hole."
+      }
+    },
+    "26": {
+      "name": "*Stalactite",
+      "properties": {
+        "000": ">$<"
+      }
+    },
+    "27": {
+      "name": "*Shadowy figure",
+      "properties": {
+        "000": "The shadowy figure seems to be trying to attract your attention."
+      }
+    },
+    "28": {
+      "name": "Dwarf's axe",
+      "properties": {
+        "000": "There is a little axe here.",
+        "100": "There is a little axe lying beside the bear."
+      }
+    },
+    "29": {
+      "name": "*Cave drawings",
+      "properties": {
+        "000": ">$<"
+      }
+    },
+    "30": {
+      "name": "*Pirate",
+      "properties": {
+        "000": ">$<"
+      }
+    },
+    "31": {
+      "name": "*Dragon",
+      "properties": {
+        "000": "A huge green fierce dragon bars the way!",
+        "100": "Congratulations!  You have just vanquished a dragon with your bare\nhands!  (Unbelievable, isn't it?)",
+        "200": "The body of a huge green dead dragon is lying off to one side."
+      }
+    },
+    "32": {
+      "name": "*Chasm",
+      "properties": {
+        "000": "A rickety wooden bridge extends across the chasm, vanishing into the\nmist.  A sign posted on the bridge reads, \"Stop! Pay troll!\"",
+        "100": "The wreckage of a bridge (and a dead bear) can be seen at the bottom\nof the chasm."
+      }
+    },
+    "33": {
+      "name": "*Troll",
+      "properties": {
+        "000": "A burly troll stands by the bridge and insists you throw him a\ntreasure before you may cross.",
+        "100": "The troll steps out from beneath the bridge and blocks your way.",
+        "200": ">$<  (Chased away)"
+      }
+    },
+    "34": {
+      "name": "*Phony troll",
+      "properties": {
+        "000": "The troll is nowhere to be seen."
+      }
+    },
+    "35": {
+      "name": ">$<  (Bear uses rtext 141)",
+      "properties": {
+        "000": "There is a ferocious cave bear eying you from the far end of the room!",
+        "100": "There is a gentle cave bear sitting placidly in one corner.",
+        "200": "There is a contented-looking bear wandering about nearby.",
+        "300": ">$<  (Dead)"
+      }
+    },
+    "36": {
+      "name": "*Message in second maze",
+      "properties": {
+        "000": "There is a message scrawled in the dust in a flowery script, reading:\n\"This is not the maze where the pirate leaves his treasure chest.\""
+      }
+    },
+    "37": {
+      "name": "*Volcano and/or geyser",
+      "properties": {
+        "000": ">$<"
+      }
+    },
+    "38": {
+      "name": "*Vending machine",
+      "properties": {
+        "000": "There is a massive vending machine here.  The instructions on it read:\n\"Drop coins here to receive fresh batteries.\""
+      }
+    },
+    "39": {
+      "name": "Batteries",
+      "properties": {
+        "000": "There are fresh batteries here.",
+        "100": "Some worn-out batteries have been discarded nearby."
+      }
+    },
+    "40": {
+      "name": "*Carpet and/or moss",
+      "properties": {
+        "000": ">$<"
+      }
+    },
+    "50": {
+      "name": "Large gold nugget",
+      "properties": {
+        "000": "There is a large sparkling nugget of gold here!"
+      }
+    },
+    "51": {
+      "name": "Several diamonds",
+      "properties": {
+        "000": "There are diamonds here!"
+      }
+    },
+    "52": {
+      "name": "Bars of silver",
+      "properties": {
+        "000": "There are bars of silver here!"
+      }
+    },
+    "53": {
+      "name": "Precious jewelry",
+      "properties": {
+        "000": "There is precious jewelry here!"
+      }
+    },
+    "54": {
+      "name": "Rare coins",
+      "properties": {
+        "000": "There are many coins here!"
+      }
+    },
+    "55": {
+      "name": "Treasure chest",
+      "properties": {
+        "000": "The pirate's treasure chest is here!"
+      }
+    },
+    "56": {
+      "name": "Golden eggs",
+      "properties": {
+        "000": "There is a large nest here, full of golden eggs!",
+        "100": "The nest of golden eggs has vanished!",
+        "200": "Done!"
+      }
+    },
+    "57": {
+      "name": "Jeweled trident",
+      "properties": {
+        "000": "There is a jewel-encrusted trident here!"
+      }
+    },
+    "58": {
+      "name": "Ming vase",
+      "properties": {
+        "000": "There is a delicate, precious, Ming vase here!",
+        "100": "The vase is now resting, delicately, on a velvet pillow.",
+        "200": "The floor is littered with worthless shards of pottery.",
+        "300": "The Ming vase drops with a delicate crash."
+      }
+    },
+    "59": {
+      "name": "Egg-sized emerald",
+      "properties": {
+        "000": "There is an emerald here the size of a plover's egg!"
+      }
+    },
+    "60": {
+      "name": "Platinum pyramid",
+      "properties": {
+        "000": "There is a platinum pyramid here, 8 inches on a side!"
+      }
+    },
+    "61": {
+      "name": "Glistening pearl",
+      "properties": {
+        "000": "Off to one side lies a glistening pearl!"
+      }
+    },
+    "62": {
+      "name": "Persian rug",
+      "properties": {
+        "000": "There is a Persian rug spread out on the floor!",
+        "100": "The dragon is sprawled out on a Persian rug!!"
+      }
+    },
+    "63": {
+      "name": "Rare spices",
+      "properties": {
+        "000": "There are rare spices here!"
+      }
+    },
+    "64": {
+      "name": "Golden chain",
+      "properties": {
+        "000": "There is a golden chain lying in a heap on the floor!",
+        "100": "The bear is locked to the wall with a golden chain!",
+        "200": "There is a golden chain locked to the wall!"
+      }
+    }
+  },
+  "random_messages": {
+    "1": "Somewhere nearby is Colossal Cave, where others have found fortunes in\ntreasure and gold, though it is rumored that some who enter are never\nseen again.  Magic is said to work in the cave.  I will be your eyes\nand hands.  Direct me with commands of 1 or 2 words.  I should warn\nyou that I look at only the first five letters of each word, so you'll\nhave to enter \"northeast\" as \"ne\" to distinguish it from \"north\".\n(Should you get stuck, type \"help\" for some general hints.  For\ninformation on how to end your adventure, etc., type \"info\".)\n\t\t\t      - - -\nThis program was originally developed by Will Crowther.  Most of the\nfeatures of the current program were added by Don Woods.  Address\ncomplaints about the UNIX version to Jim Gillogly (jim@rand.org).",
+    "2": "A little dwarf with a big knife blocks your way.",
+    "3": "A little dwarf just walked around a corner, saw you, threw a little\naxe at you (which missed), cursed, and ran away.",
+    "4": "There is a threatening little dwarf in the room with you!",
+    "5": "One sharp nasty knife is thrown at you!",
+    "6": "None of them hit you!",
+    "7": "One of them gets you!",
+    "8": "A hollow voice says \"Plugh\".",
+    "9": "There is no way to go that direction.",
+    "10": "I am unsure how you are facing.  Use compass points or nearby objects.",
+    "11": "I don't know in from out here.  Use compass points or name something\nin the general direction you want to go.",
+    "12": "I don't know how to apply that word here.",
+    "13": "I don't understand that!",
+    "14": "I'm game.  Would you care to explain how?",
+    "15": "Sorry, but I am not allowed to give more detail.  I will repeat the\nlong description of your location.",
+    "16": "It is now pitch dark.  If you proceed you will likely fall into a pit.",
+    "17": "If you prefer, simply type w rather than west.",
+    "18": "Are you trying to catch the bird?",
+    "19": "The bird is frightened right now and you cannot catch it no matter\nwhat you try.  Perhaps you might try later.",
+    "20": "Are you trying to somehow deal with the snake?",
+    "21": "You can't kill the snake, or drive it away, or avoid it, or anything\nlike that.  There is a way to get by, but you don't have the necessary\nresources right now.",
+    "22": "Do you really want to quit now?",
+    "23": "You fell into a pit and broke every bone in your body!",
+    "24": "You are already carrying it!",
+    "25": "You can't be serious!",
+    "26": "The bird was unafraid when you entered, but as you approach it becomes\ndisturbed and you cannot catch it.",
+    "27": "You can catch the bird, but you cannot carry it.",
+    "28": "There is nothing here with a lock!",
+    "29": "You aren't carrying it!",
+    "30": "The little bird attacks the green snake, and in an astounding flurry\ndrives the snake away.",
+    "31": "You have no keys!",
+    "32": "It has no lock.",
+    "33": "I don't know how to lock or unlock such a thing.",
+    "34": "It was already locked.",
+    "35": "The grate is now locked.",
+    "36": "The grate is now unlocked.",
+    "37": "It was already unlocked.",
+    "38": "You have no source of light.",
+    "39": "Your lamp is now on.",
+    "40": "Your lamp is now off.",
+    "41": "There is no way to get past the bear to unlock the chain, which is\nprobably just as well.",
+    "42": "Nothing happens.",
+    "43": "Where?",
+    "44": "There is nothing here to attack.",
+    "45": "The little bird is now dead.  Its body disappears.",
+    "46": "Attacking the snake both doesn't work and is very dangerous.",
+    "47": "You killed a little dwarf.",
+    "48": "You attack a little dwarf, but he dodges out of the way.",
+    "49": "With what?  Your bare hands?",
+    "50": "Good try, but that is an old worn-out magic word.",
+    "51": "I know of places, actions, and things.  Most of my vocabulary\ndescribes places and is used to move you there.  To move, try words\nlike forest, building, downstream, enter, east, west, north, south,\nup, or down.  I know about a few special objects, like a black rod\nhidden in the cave.  These objects can be manipulated using some of\nthe action words that I know.  Usually you will need to give both the\nobject and action words (in either order), but sometimes I can infer\nthe object from the verb alone.  Some objects also imply verbs; in\nparticular, \"inventory\" implies \"take inventory\", which causes me to\ngive you a list of what you're carrying.  The objects have side\neffects; for instance, the rod scares the bird.  Usually people having\ntrouble moving just need to try a few more words.  Usually people\ntrying unsuccessfully to manipulate an object are attempting something\nbeyond their (or my!) capabilities and should try a completely\ndifferent tack.  To speed the game you can sometimes move long\ndistances with a single word.  For example, \"building\" usually gets\nyou to the building from anywhere above ground except when lost in the\nforest.  Also, note that cave passages turn a lot, and that leaving a\nroom to the north does not guarantee entering the next from the south.\nGood luck!",
+    "52": "It misses!",
+    "53": "It gets you!",
+    "54": "OK",
+    "55": "You can't unlock the keys.",
+    "56": "You have crawled around in some little holes and wound up back in the\nmain passage.",
+    "57": "I don't know where the cave is, but hereabouts no stream can run on\nthe surface for long.  I would try the stream.",
+    "58": "I need more detailed instructions to do that.",
+    "59": "I can only tell you what you see as you move about and manipulate\nthings.  I cannot tell you where remote things are.",
+    "60": "I don't know that word.",
+    "61": "What?",
+    "62": "Are you trying to get into the cave?",
+    "63": "The grate is very solid and has a hardened steel lock.  You cannot\nenter without a key, and there are no keys nearby.  I would recommend\nlooking elsewhere for the keys.",
+    "64": "The trees of the forest are large hardwood oak and maple, with an\noccasional grove of pine or spruce.  There is quite a bit of under-\ngrowth, largely birch and ash saplings plus nondescript bushes of\nvarious sorts.  This time of year visibility is quite restricted by\nall the leaves, but travel is quite easy if you detour around the\nspruce and berry bushes.",
+    "65": "Welcome to Adventure!!  Would you like instructions?",
+    "66": "Digging without a shovel is quite impractical.  Even with a shovel\nprogress is unlikely.",
+    "67": "Blasting requires dynamite.",
+    "68": "I'm as confused as you are.",
+    "69": "Mist is a white vapor, usually water, seen from time to time in\ncaverns.  It can be found anywhere but is frequently a sign of a deep\npit leading down to water.",
+    "70": "Your feet are now wet.",
+    "71": "I think I just lost my appetite.",
+    "72": "Thank you, it was delicious!",
+    "73": "You have taken a drink from the stream.  The water tastes strongly of\nminerals, but is not unpleasant.  It is extremely cold.",
+    "74": "The bottle of water is now empty.",
+    "75": "Rubbing the electric lamp is not particularly rewarding.  Anyway,\nnothing exciting happens.",
+    "76": "Peculiar.  Nothing unexpected happens.",
+    "77": "Your bottle is empty and the ground is wet.",
+    "78": "You can't pour that.",
+    "79": "Watch it!",
+    "80": "Which way?",
+    "81": "Oh dear, you seem to have gotten yourself killed.  I might be able to\nhelp you out, but I've never really done this before.  Do you want me\nto try to reincarnate you?",
+    "82": "All right.  But don't blame me if something goes wr......\n                    --- Poof!! ---\nYou are engulfed in a cloud of orange smoke.  Coughing and gasping,\nyou emerge from the smoke and find....",
+    "83": "You clumsy oaf, you've done it again!  I don't know how long I can\nkeep this up.  Do you want me to try reincarnating you again?",
+    "84": "Okay, now where did I put my orange smoke?....  >poof!<\nEverything disappears in a dense cloud of orange smoke.",
+    "85": "Now you've really done it!  I'm out of orange smoke!  You don't expect\nme to do a decent reincarnation without any orange smoke, do you?",
+    "86": "Okay, if you're so smart, do it yourself!  I'm leaving!",
+    "90": ">>> Messages 81 thru 90 are reserved for \"obituaries\". <<<",
+    "91": "Sorry, but I no longer seem to remember how it was you got here.",
+    "92": "You can't carry anything more.  You'll have to drop something first.",
+    "93": "You can't go through a locked steel grate!",
+    "94": "I believe what you want is right here with you.",
+    "95": "You don't fit through a two-inch slit!",
+    "96": "I respectfully suggest you go across the bridge instead of jumping.",
+    "97": "There is no way across the fissure.",
+    "98": "You're not carrying anything.",
+    "99": "You are currently holding the following:",
+    "100": "It's not hungry (it's merely pinin' for the fjords).  Besides, you\nhave no bird seed.",
+    "101": "The snake has now devoured your bird.",
+    "102": "There's nothing here it wants to eat (except perhaps you).",
+    "103": "You fool, dwarves eat only coal!  Now you've made him *really* mad!!",
+    "104": "You have nothing in which to carry it.",
+    "105": "Your bottle is already full.",
+    "106": "There is nothing here with which to fill the bottle.",
+    "107": "Your bottle is now full of water.",
+    "108": "Your bottle is now full of oil.",
+    "109": "You can't fill that.",
+    "110": "Don't be ridiculous!",
+    "111": "The door is extremely rusty and refuses to open.",
+    "112": "The plant indignantly shakes the oil off its leaves and asks, \"water?\"",
+    "113": "The hinges are quite thoroughly rusted now and won't budge.",
+    "114": "The oil has freed up the hinges so that the door will now move,\nalthough it requires some effort.",
+    "115": "The plant has exceptionally deep roots and cannot be pulled free.",
+    "116": "The dwarves' knives vanish as they strike the walls of the cave.",
+    "117": "Something you're carrying won't fit through the tunnel with you.\nYou'd best take inventory and drop something.",
+    "118": "You can't fit this five-foot clam through that little passage!",
+    "119": "You can't fit this five-foot oyster through that little passage!",
+    "120": "I advise you to put down the clam before opening it.  >strain!<",
+    "121": "I advise you to put down the oyster before opening it.  >wrench!<",
+    "122": "You don't have anything strong enough to open the clam.",
+    "123": "You don't have anything strong enough to open the oyster.",
+    "124": "A glistening pearl falls out of the clam and rolls away.  Goodness,\nthis must really be an oyster.  (I never was very good at identifying\nbivalves.)  Whatever it is, it has now snapped shut again.",
+    "125": "The oyster creaks open, revealing nothing but oyster inside.  It\npromptly snaps shut again.",
+    "126": "You have crawled around in some little holes and found your way\nblocked by a recent cave-in.  You are now back in the main passage.",
+    "127": "There are faint rustling noises from the darkness behind you.",
+    "128": "Out from the shadows behind you pounces a bearded pirate!  \"Har, har,\"\nhe chortles, \"I'll just take all this booty and hide it away with me\nchest deep in the maze!\"  He snatches your treasure and vanishes into\nthe gloom.",
+    "129": "A sepulchral voice reverberating through the cave, says, \"Cave closing\nsoon.  All adventurers exit immediately through Main Office.\"",
+    "130": "A mysterious recorded voice groans into life and announces:\n\"This exit is closed.  Please leave via Main Office.\"",
+    "131": "It looks as though you're dead.  Well, seeing as how it's so close to\nclosing time anyway, I think we'll just call it a day.",
+    "132": "The sepulchral voice intones, \"The cave is now closed.\"  As the echoes\nfade, there is a blinding flash of light (and a small puff of orange\nsmoke). . . .    As your eyes refocus, you look around and find...",
+    "133": "There is a loud explosion, and a twenty-foot hole appears in the far\nwall, burying the dwarves in the rubble.  You march through the hole\nand find yourself in the Main Office, where a cheering band of\nfriendly elves carry the conquering adventurer off into the sunset.",
+    "134": "There is a loud explosion, and a twenty-foot hole appears in the far\nwall, burying the snakes in the rubble.  A river of molten lava pours\nin through the hole, destroying everything in its path, including you!",
+    "135": "There is a loud explosion, and you are suddenly splashed across the\nwalls of the room.",
+    "136": "The resulting ruckus has awakened the dwarves.  There are now several\nthreatening little dwarves in the room with you!  Most of them throw\nknives at you!  All of them get you!",
+    "137": "Oh, leave the poor unhappy bird alone.",
+    "138": "I dare say whatever you want is around here somewhere.",
+    "139": "I don't know the word \"stop\".  Use \"quit\" if you want to give up.",
+    "140": "You can't get there from here.",
+    "141": "You are being followed by a very large, tame bear.",
+    "142": "If you want to end your adventure early, say \"quit\".  To suspend your\nadventure such that you can continue later, say \"suspend\" (or \"pause\"\nor \"save\").  To see what hours the cave is normally open, say \"hours\".\nTo see how well you're doing, say \"score\".  To get full credit for a\ntreasure, you must have left it safely in the building, though you get\npartial credit just for locating it.  You lose points for getting\nkilled, or for quitting, though the former costs you more.  There are\nalso points based on how much (if any) of the cave you've managed to\nexplore; in particular, there is a large bonus just for getting in (to\ndistinguish the beginners from the rest of the pack), and there are\nother ways to determine whether you've been through some of the more\nharrowing sections.  If you think you've found all the treasures, just\nkeep exploring for a while.  If nothing interesting happens, you\nhaven't found them all yet.  If something interesting *does* happen,\nit means you're getting a bonus and have an opportunity to garner many\nmore points in the Master's Section.  I may occasionally offer hints\nif you seem to be having trouble.  If I do, I'll warn you in advance\nhow much it will affect your score to accept the hints.  Finally, to\nsave paper, you may specify \"brief\", which tells me never to repeat\nthe full description of a place unless you explicitly ask me to.",
+    "143": "Do you indeed wish to quit now?",
+    "144": "There is nothing here with which to fill the vase.",
+    "145": "The sudden change in temperature has delicately shattered the vase.",
+    "146": "It is beyond your power to do that.",
+    "147": "I don't know how.",
+    "148": "It is too far up for you to reach.",
+    "149": "You killed a little dwarf.  The body vanishes in a cloud of greasy\nblack smoke.",
+    "150": "The shell is very strong and is impervious to attack.",
+    "151": "What's the matter, can't you read?  Now you'd best start over.",
+    "152": "The axe bounces harmlessly off the dragon's thick scales.",
+    "153": "The dragon looks rather nasty.  You'd best not try to get by.",
+    "154": "The little bird attacks the green dragon, and in an astounding flurry\ngets burnt to a cinder.  The ashes blow away.",
+    "155": "On what?",
+    "156": "Okay, from now on I'll only describe a place in full the first time\nyou come to it.  To get the full description, say \"look\".",
+    "157": "Trolls are close relatives with the rocks and have skin as tough as\nthat of a rhinoceros.  The troll fends off your blows effortlessly.",
+    "158": "The troll deftly catches the axe, examines it carefully, and tosses it\nback, declaring, \"Good workmanship, but it's not valuable enough.\"",
+    "159": "The troll catches your treasure and scurries away out of sight.",
+    "160": "The troll refuses to let you cross.",
+    "161": "There is no longer any way across the chasm.",
+    "162": "Just as you reach the other side, the bridge buckles beneath the\nweight of the bear, which was still following you around.  You\nscrabble desperately for support, but as the bridge collapses you\nstumble back and fall into the chasm.",
+    "163": "The bear lumbers toward the troll, who lets out a startled shriek and\nscurries away.  The bear soon gives up the pursuit and wanders back.",
+    "164": "The axe misses and lands near the bear where you can't get at it.",
+    "165": "With what?  Your bare hands?  Against *his* bear hands??",
+    "166": "The bear is confused; he only wants to be your friend.",
+    "167": "For crying out loud, the poor thing is already dead!",
+    "168": "The bear eagerly wolfs down your food, after which he seems to calm\ndown considerably and even becomes rather friendly.",
+    "169": "The bear is still chained to the wall.",
+    "170": "The chain is still locked.",
+    "171": "The chain is now unlocked.",
+    "172": "The chain is now locked.",
+    "173": "There is nothing here to which the chain can be locked.",
+    "174": "There is nothing here to eat.",
+    "175": "Do you want the hint?",
+    "176": "Do you need help getting out of the maze?",
+    "177": "You can make the passages look less alike by dropping things.",
+    "178": "Are you trying to explore beyond the Plover Room?",
+    "179": "There is a way to explore that region without having to worry about\nfalling into a pit.  None of the objects available is immediately\nuseful in discovering the secret.",
+    "180": "Do you need help getting out of here?",
+    "181": "Don't go west.",
+    "182": "Gluttony is not one of the troll's vices.  Avarice, however, is.",
+    "183": "Your lamp is getting dim.  You'd best start wrapping this up, unless\nYou can find some fresh batteries.  I seem to recall there's a vending\nmachine in the maze.  Bring some coins with you.",
+    "184": "Your lamp has run out of power.",
+    "185": "There's not much point in wandering around out here, and you can't\nexplore the cave without a lamp.  So let's just call it a day.",
+    "186": "There are faint rustling noises from the darkness behind you.  As you\nturn toward them, the beam of your lamp falls across a bearded pirate.\nHe is carrying a large chest.  \"Shiver me timbers!\" he cries, \"I've\nbeen spotted!  I'd best hie meself off to the maze to hide me chest!\"\nWith that, he vanishes into the gloom.",
+    "187": "Your lamp is getting dim.  You'd best go back for those batteries.",
+    "188": "Your lamp is getting dim.  I'm taking the liberty of replacing the\nbatteries.",
+    "189": "Your lamp is getting dim, and you're out of spare batteries.  You'd\nbest start wrapping this up.",
+    "190": "I'm afraid the magazine is written in Dwarvish.",
+    "191": "\"This is not the maze where the pirate leaves his treasure chest.\"",
+    "192": "Hmmm, this looks like a clue, which means it'll cost you 10 points to\nread it.  Should I go ahead and read it anyway?",
+    "193": "It says, \"there is something strange about this place, such that one\nof the words I've always known now has a new effect.\"",
+    "194": "It says the same thing it did before.",
+    "195": "I'm afraid I don't understand.",
+    "196": "\"Congratulations on bringing light into the Dark-Room!\"",
+    "197": "You strike the mirror a resounding blow, whereupon it shatters into a\nmyriad tiny fragments.",
+    "198": "You have taken the vase and hurled it delicately to the ground.",
+    "199": "You prod the nearest dwarf, who wakes up grumpily, takes one look at\nyou, curses, and grabs for his axe.",
+    "200": "Is this acceptable?",
+    "201": "There's no point in suspending a demonstration game.",
+    "202": "You awaken only to discover your bits have been dissolving while you\nslept.  You disappear in a cloud of greasy black smoke."
+  },
+  "object_locations": {
+    "1": {
+      "location": 3,
+      "fixed": 0
+    },
+    "2": {
+      "location": 3,
+      "fixed": 0
+    },
+    "3": {
+      "location": 8,
+      "fixed": 9
+    },
+    "4": {
+      "location": 10,
+      "fixed": 0
+    },
+    "5": {
+      "location": 11,
+      "fixed": 0
+    },
+    "6": {
+      "location": 0,
+      "fixed": 0
+    },
+    "7": {
+      "location": 14,
+      "fixed": 15
+    },
+    "8": {
+      "location": 13,
+      "fixed": 0
+    },
+    "9": {
+      "location": 94,
+      "fixed": -1
+    },
+    "10": {
+      "location": 96,
+      "fixed": 0
+    },
+    "11": {
+      "location": 19,
+      "fixed": -1
+    },
+    "12": {
+      "location": 17,
+      "fixed": 27
+    },
+    "13": {
+      "location": 101,
+      "fixed": -1
+    },
+    "14": {
+      "location": 103,
+      "fixed": 0
+    },
+    "15": {
+      "location": 0,
+      "fixed": 0
+    },
+    "16": {
+      "location": 106,
+      "fixed": 0
+    },
+    "17": {
+      "location": 0,
+      "fixed": -1
+    },
+    "18": {
+      "location": 0,
+      "fixed": 0
+    },
+    "19": {
+      "location": 3,
+      "fixed": 0
+    },
+    "20": {
+      "location": 3,
+      "fixed": 0
+    },
+    "21": {
+      "location": 0,
+      "fixed": 0
+    },
+    "22": {
+      "location": 0,
+      "fixed": 0
+    },
+    "23": {
+      "location": 109,
+      "fixed": -1
+    },
+    "24": {
+      "location": 25,
+      "fixed": -1
+    },
+    "25": {
+      "location": 23,
+      "fixed": 67
+    },
+    "26": {
+      "location": 111,
+      "fixed": -1
+    },
+    "27": {
+      "location": 35,
+      "fixed": 110
+    },
+    "28": {
+      "location": 0,
+      "fixed": 0
+    },
+    "29": {
+      "location": 97,
+      "fixed": -1
+    },
+    "30": {
+      "location": 0,
+      "fixed": -1
+    },
+    "31": {
+      "location": 119,
+      "fixed": 121
+    },
+    "32": {
+      "location": 117,
+      "fixed": 122
+    },
+    "33": {
+      "location": 117,
+      "fixed": 122
+    },
+    "34": {
+      "location": 0,
+      "fixed": 0
+    },
+    "35": {
+      "location": 130,
+      "fixed": -1
+    },
+    "36": {
+      "location": 0,
+      "fixed": -1
+    },
+    "37": {
+      "location": 126,
+      "fixed": -1
+    },
+    "38": {
+      "location": 140,
+      "fixed": -1
+    },
+    "39": {
+      "location": 0,
+      "fixed": 0
+    },
+    "40": {
+      "location": 96,
+      "fixed": -1
+    },
+    "50": {
+      "location": 18,
+      "fixed": 0
+    },
+    "51": {
+      "location": 27,
+      "fixed": 0
+    },
+    "52": {
+      "location": 28,
+      "fixed": 0
+    },
+    "53": {
+      "location": 29,
+      "fixed": 0
+    },
+    "54": {
+      "location": 30,
+      "fixed": 0
+    },
+    "55": {
+      "location": 0,
+      "fixed": 0
+    },
+    "56": {
+      "location": 92,
+      "fixed": 0
+    },
+    "57": {
+      "location": 95,
+      "fixed": 0
+    },
+    "58": {
+      "location": 97,
+      "fixed": 0
+    },
+    "59": {
+      "location": 100,
+      "fixed": 0
+    },
+    "60": {
+      "location": 101,
+      "fixed": 0
+    },
+    "61": {
+      "location": 0,
+      "fixed": 0
+    },
+    "62": {
+      "location": 119,
+      "fixed": 121
+    },
+    "63": {
+      "location": 127,
+      "fixed": 0
+    },
+    "64": {
+      "location": 130,
+      "fixed": -1
+    }
+  },
+  "action_defaults": {
+    "1": 24,
+    "2": 29,
+    "3": 0,
+    "4": 33,
+    "5": 0,
+    "6": 33,
+    "7": 38,
+    "8": 38,
+    "9": 42,
+    "10": 14,
+    "11": 43,
+    "12": 110,
+    "13": 29,
+    "14": 110,
+    "15": 73,
+    "16": 75,
+    "17": 29,
+    "18": 13,
+    "19": 59,
+    "20": 59,
+    "21": 174,
+    "22": 109,
+    "23": 67,
+    "24": 13,
+    "25": 147,
+    "26": 155,
+    "27": 195,
+    "28": 146,
+    "29": 110,
+    "30": 13,
+    "31": 13
+  },
+  "liquid_assets": [
+    {
+      "bit": 0,
+      "locations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "bit": 0,
+      "locations": [
+        100,
+        115,
+        116,
+        126
+      ]
+    },
+    {
+      "bit": 2,
+      "locations": [
+        1,
+        3,
+        4,
+        7,
+        38,
+        95,
+        113,
+        24
+      ]
+    },
+    {
+      "bit": 1,
+      "locations": [
+        24
+      ]
+    },
+    {
+      "bit": 3,
+      "locations": [
+        46,
+        47,
+        48,
+        54,
+        56,
+        58,
+        82,
+        85,
+        86
+      ]
+    },
+    {
+      "bit": 3,
+      "locations": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "bit": 4,
+      "locations": [
+        8
+      ]
+    },
+    {
+      "bit": 5,
+      "locations": [
+        13
+      ]
+    },
+    {
+      "bit": 6,
+      "locations": [
+        19
+      ]
+    },
+    {
+      "bit": 7,
+      "locations": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ]
+    },
+    {
+      "bit": 7,
+      "locations": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        80,
+        81,
+        82,
+        86,
+        87
+      ]
+    },
+    {
+      "bit": 8,
+      "locations": [
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "bit": 9,
+      "locations": [
+        108
+      ]
+    }
+  ],
+  "class_messages": {
+    "35": "You are obviously a rank amateur.  Better luck next time.",
+    "100": "Your score qualifies you as a Novice class Adventurer.",
+    "130": "You have achieved the rating: \"Experienced Adventurer\".",
+    "200": "You may now consider yourself a \"Seasoned Adventurer\".",
+    "250": "You have reached \"Junior Master\" status.",
+    "300": "Your score puts you in Master Adventurer Class C.",
+    "330": "Your score puts you in Master Adventurer Class B.",
+    "349": "Your score puts you in Master Adventurer Class A.",
+    "9999": "All of Adventuredom gives tribute to you, Adventurer Grandmaster!"
+  },
+  "hints": {},
+  "magic_messages": {
+    "1": "A large cloud of green smoke appears in front of you.  It clears away\nto reveal a tall wizard, clothed in grey.  He fixes you with a steely\nglare and declares, \"This adventure has lasted too long.\"  With that\nhe makes a single pass over you with his hands, and everything around\nyou fades away into a grey nothingness.",
+    "2": "Even wizards have to wait longer than that!",
+    "3": "I'm terribly sorry, but Colossal Cave is closed.  Our hours are:",
+    "4": "Only wizards are permitted within the cave right now.",
+    "5": "We do allow visitors to make short explorations during our off hours.\nWould you like to do that?",
+    "6": "Colossal Cave is open to regular adventurers at the following hours:",
+    "7": "Very well.",
+    "8": "Only a wizard may continue an adventure this soon.",
+    "9": "I suggest you resume your adventure at a later time.",
+    "10": "Do you wish to see the hours?",
+    "11": "Do you wish to change the hours?",
+    "12": "New magic word (null to leave unchanged):",
+    "13": "New magic number (null to leave unchanged):",
+    "14": "Do you wish to change the message of the day?",
+    "15": "Okay.  You can save this version now.",
+    "16": "Are you a wizard?",
+    "17": "Prove it!  Say the magic word!",
+    "18": "That is not what I thought it was.  Do you know what I thought it was?",
+    "19": "Oh dear, you really *are* a wizard!  Sorry to have bothered you . . .",
+    "20": "Foo, you are nothing but a charlatan!",
+    "21": "New hours specified by defining \"prime time\".  Give only the hour\n(E.g. 14, not 14:00 or 2pm).  Enter a negative number after last pair.",
+    "22": "New hours for Colossal Cave:",
+    "23": "Limit lines to 70 chars.  End with null line.",
+    "24": "Line too long, retype:",
+    "25": "Not enough room for another line.  Ending message here.",
+    "26": "Do you wish to (re)schedule the next holiday?",
+    "27": "To begin how many days from today?",
+    "28": "To last how many days (zero if no holiday)?",
+    "29": "To be called what (up to 20 characters)?",
+    "30": "Too small!  Assuming minimum value (45 minutes).",
+    "31": "Break out of this and save your core-image.",
+    "32": "Be sure to save your core-image..."
+  }
+}
