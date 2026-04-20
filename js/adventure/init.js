@@ -144,7 +144,7 @@ function linkdata(state) {
     state.bonus = 0;
     state.clock1 = 30;
     state.clock2 = 50;
-    state.saved = 0;
+    state.saved = -1;
     state.closng = false;
     state.panic = false;
     state.closed = false;
