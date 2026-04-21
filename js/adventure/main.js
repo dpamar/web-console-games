@@ -740,7 +740,7 @@ async function handleVerb(state) {
             return 'continue';
 
         case 25: { // foo
-            const k = vocab(state, state.wd1, 3, 0);
+            let k = vocab(state, state.wd1, 3, 0);
             state.spk = 42;
             if (state.foobar === 1 - k) {
                 // l8252

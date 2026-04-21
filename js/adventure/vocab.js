@@ -46,6 +46,8 @@ export function vocab(state, word, type, value) {
             } else if (wordType === type) {
                 // Matching type
                 return wordValue;
+            } else if (wordType === 2 && type === 3) {
+                return state.voc.filter(x=>x.val == 2025).map(x=>x.atab).sort().indexOf(w) + 1;
             }
             // Type mismatch - keep searching for same word with different type
         }
